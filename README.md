@@ -1,4 +1,4 @@
-# sch_cake - The "Dave Täht Tribute" Fork
+# [sch_cake - The "Dave Täht Tribute" Fork](https://github.com/TW641/sch_cake)
 
 > **"When you miss Dave, modprobe sch_cake!"**
 > — *A tribute to the soul of bufferbloat mitigation.*
