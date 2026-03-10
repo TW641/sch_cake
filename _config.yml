@@ -1,0 +1,12 @@
+# 專案基礎設定 (各專案請自行修改此處)
+title: "sch_cake (The Dave Täht Tribute Fork)"
+description: "A tribute to the soul of bufferbloat mitigation."
+url: "https://tw641.github.io"
+github_url: "https://github.com/TW641/sch_cake"
+
+# 強制開啟 GFM 引擎與自動生成 ID (確保 TOC 單頁跳轉完美生效)
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
