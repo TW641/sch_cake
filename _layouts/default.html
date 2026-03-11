@@ -5,14 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline';">
     
-    <title>{{ site.title }} | TW641 開源路由器韌體中心</title>
+    <title>{{ site.title }} - TW641 的開源專案 | TW641 開源路由器韌體中心</title>
 
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}">
 
     <meta name="google-site-verification" content="-vHIVPvpGauTz39uKyANi2BPSfJwrsrxGVMagKliEgE" />
     <meta name="google-site-verification" content="OV7xROgDy7S6bx5Mrsf5hefCfoKkRYgE0F9raeoZ8qc" />
     
-    <meta name="description" content="TW641 徹底終結網路延遲！專為對抗 Bufferbloat 而生，提供 142 款經典路由器的 Padavan-CAKE 韌體雲端編譯懶人包，並移植 CAKE 演算法與整合 SQM 優化，讓老舊設備發揮極致網路效能。">
+    <meta name="description" content="{{ site.title }} - TW641 的開源專案 | TW641 徹底終結網路延遲！專為對抗 Bufferbloat 而生，提供 142 款經典路由器的 Padavan-CAKE 韌體雲端編譯懶人包，並移植 CAKE 演算法與整合 SQM 優化，讓老舊設備發揮極致網路效能。">
     <meta name="keywords" content="Padavan, CAKE, SQM, Bufferbloat, 路由器, 韌體, 開源, 開放原始碼, 固件, TW641, 雲端編譯, sch_cake, mobile01, mobile01.com, ptt, ptt.cc, right, right.com.cn, 恩山, 恩山无线论坛, 恩山無線論壇, 恩山論壇, 論壇, 论坛, 刷機, 路由器刷機, 第三方韌體, 第三方固件, 老毛子, 老毛子固件, OpenWrt, Tomato, 網路優化, 降低延遲, K2P, DIR-878, MI-R3G, GL.iNet, 移植, port, backport">
     <meta name="author" content="TW641">
     <meta name="robots" content="index, follow, max-image-preview:large">
@@ -25,13 +25,13 @@
 
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}">
-    <meta property="og:title" content="{{ site.title }} | TW641 開源路由器韌體中心">
-    <meta property="og:description" content="TW641 致力於對抗 Bufferbloat，為 142 款路由器提供 Padavan-CAKE 韌體雲端編譯懶人包，用 CAKE 開源演算法讓你的老設備重獲新生。">
+    <meta property="og:title" content="{{ site.title }} - TW641 的開源專案 | TW641 開源路由器韌體中心">
+    <meta property="og:description" content="{{ site.title }} - TW641 的開源專案 | TW641 致力於對抗 Bufferbloat，為 142 款路由器提供 Padavan-CAKE 韌體雲端編譯懶人包，用 CAKE 開源演算法讓你的老設備重獲新生。">
     <meta property="og:image" content="https://tw641.github.io/TW641.png">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ site.title }} | TW641 開源路由器韌體中心">
-    <meta name="twitter:description" content="TW641 終結延遲！142 款路由器 Padavan-CAKE 韌體中心，讓老設備煥發極致效能。">
+    <meta name="twitter:title" content="{{ site.title }} - TW641 的開源專案 | TW641 開源路由器韌體中心">
+    <meta name="twitter:description" content="{{ site.title }} - TW641 的開源專案 | TW641 終結延遲！142 款路由器 Padavan-CAKE 韌體中心，讓老設備煥發極致效能。">
     <meta name="twitter:image" content="https://tw641.github.io/TW641.png">
 
     <script type="application/ld+json">
@@ -42,8 +42,8 @@
                 "@type": "WebSite",
                 "@id": "{{ site.url }}{{ site.baseurl }}/#website",
                 "url": "{{ site.url }}{{ site.baseurl }}/",
-                "name": "TW641 | Padavan CAKE 開源路由器韌體中心",
-                "description": "TW641 提供 142 款路由器的 Padavan-CAKE 韌體雲端編譯懶人包與 CAKE 演算法移植，致力於對抗 Bufferbloat。",
+                "name": "{{ site.title }} - TW641 的開源專案 | Padavan CAKE 開源路由器韌體中心",
+                "description": "{{ site.title }} - TW641 的開源專案，提供 142 款路由器的 Padavan-CAKE 韌體雲端編譯懶人包與 CAKE 演算法移植，致力於對抗 Bufferbloat。",
                 "author": {
                     "@type": "Person",
                     "name": "TW641",
@@ -56,10 +56,10 @@
             {
                 "@type": "SoftwareApplication",
                 "@id": "{{ site.url }}{{ site.baseurl }}/#software",
-                "name": "Padavan-CAKE Firmware",
+                "name": "Padavan-CAKE Firmware ({{ site.title }})",
                 "operatingSystem": "Linux/MIPS/ARM",
                 "applicationCategory": "NetworkingApplication",
-                "description": "TW641 基於 Padavan 源碼並整合移植核心 CAKE 演算法的開源路由器韌體，支援 142 款機型自動化雲端編譯，有效降低網路延遲。",
+                "description": "{{ site.title }} - TW641 的開源專案，基於 Padavan 源碼並整合移植核心 CAKE 演算法的開源路由器韌體，支援 142 款機型自動化雲端編譯，有效降低網路延遲。",
                 "softwareVersion": "Cloud-Build",
                 "offers": {
                     "@type": "Offer",
