@@ -12,13 +12,13 @@
     <meta name="google-site-verification" content="-vHIVPvpGauTz39uKyANi2BPSfJwrsrxGVMagKliEgE" />
     <meta name="google-site-verification" content="OV7xROgDy7S6bx5Mrsf5hefCfoKkRYgE0F9raeoZ8qc" />
     
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="TW641 徹底終結網路延遲！專為對抗 Bufferbloat 而生，提供 142 款經典路由器的 Padavan-CAKE 韌體雲端編譯懶人包，並移植 CAKE 演算法與整合 SQM 優化，讓老舊設備發揮極致網路效能。">
     <meta name="keywords" content="Padavan, CAKE, SQM, Bufferbloat, 路由器, 韌體, 開源, 開放原始碼, 固件, TW641, 雲端編譯, sch_cake, mobile01, mobile01.com, ptt, ptt.cc, right, right.com.cn, 恩山, 恩山无线论坛, 恩山無線論壇, 恩山論壇, 論壇, 论坛, 刷機, 路由器刷機, 第三方韌體, 第三方固件, 老毛子, 老毛子固件, OpenWrt, Tomato, 網路優化, 降低延遲, K2P, DIR-878, MI-R3G, GL.iNet, 移植, port, backport">
     <meta name="author" content="TW641">
     <meta name="robots" content="index, follow, max-image-preview:large">
 
     <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ site.url }}/sitemap.xml">
-    <link rel="icon" href="https://github.com/TW641.png" type="image/png">
+    <link rel="icon" href="https://tw641.github.io/TW641.png" type="image/png">
 
     <meta name="theme-color" content="#f6f8fa" media="(prefers-color-scheme: light)">
     <meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)">
@@ -26,13 +26,13 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}">
     <meta property="og:title" content="{{ site.title }} | TW641 開源路由器韌體中心">
-    <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:image" content="{{ site.url }}/Padavan-CAKE/images/CAKE.png">
+    <meta property="og:description" content="TW641 致力於對抗 Bufferbloat，為 142 款路由器提供 Padavan-CAKE 韌體雲端編譯懶人包，用 CAKE 開源演算法讓你的老設備重獲新生。">
+    <meta property="og:image" content="https://tw641.github.io/TW641.png">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ site.title }} | TW641 開源路由器韌體中心">
-    <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image" content="{{ site.url }}/Padavan-CAKE/images/CAKE.png">
+    <meta name="twitter:description" content="TW641 終結延遲！142 款路由器 Padavan-CAKE 韌體中心，讓老設備煥發極致效能。">
+    <meta name="twitter:image" content="https://tw641.github.io/TW641.png">
 
     <script type="application/ld+json">
     {
@@ -43,20 +43,24 @@
                 "@id": "{{ site.url }}{{ site.baseurl }}/#website",
                 "url": "{{ site.url }}{{ site.baseurl }}/",
                 "name": "TW641 | Padavan CAKE 開源路由器韌體中心",
-                "description": "致力於對抗 Bufferbloat 網路延遲，提供多款經典路由器的 Padavan-CAKE 雲端編譯懶人包與演算法移植。",
+                "description": "TW641 提供 142 款路由器的 Padavan-CAKE 韌體雲端編譯懶人包與 CAKE 演算法移植，致力於對抗 Bufferbloat。",
                 "author": {
                     "@type": "Person",
                     "name": "TW641",
-                    "url": "https://github.com/TW641"
+                    "url": "https://tw641.github.io/",
+                    "sameAs": [
+                        "https://github.com/TW641"
+                    ]
                 }
             },
             {
                 "@type": "SoftwareApplication",
                 "@id": "{{ site.url }}{{ site.baseurl }}/#software",
                 "name": "Padavan-CAKE Firmware",
-                "operatingSystem": "Linux",
+                "operatingSystem": "Linux/MIPS/ARM",
                 "applicationCategory": "NetworkingApplication",
-                "description": "基於 Padavan 源碼並整合 CAKE 演算法的第三方開源路由器韌體，支援 142 款機型自動化雲端編譯。",
+                "description": "TW641 基於 Padavan 源碼並整合移植核心 CAKE 演算法的開源路由器韌體，支援 142 款機型自動化雲端編譯，有效降低網路延遲。",
+                "softwareVersion": "Cloud-Build",
                 "offers": {
                     "@type": "Offer",
                     "price": "0",
@@ -65,7 +69,10 @@
                 "author": {
                     "@type": "Person",
                     "name": "TW641",
-                    "url": "https://github.com/TW641"
+                    "url": "https://tw641.github.io/",
+                    "sameAs": [
+                        "https://github.com/TW641"
+                    ]
                 }
             }
         ]
@@ -153,9 +160,10 @@
             <a href="{{ site.url }}{{ site.baseurl }}/" style="color: inherit; text-decoration: none; font-size: inherit; font-weight: inherit;">🇹🇼 {{ site.title }}</a>
         </h1>
         <p>{{ site.description }}</p>
-        <div>
-            <a href="https://tw641.github.io/" class="btn" style="background-color: transparent; color: var(--text-color) !important; border: 1px solid var(--border-color);">🏠 回到 TW641 主站</a>
-            <a href="{{ site.github_url }}" target="_blank" class="btn">🚀 前往 GitHub 專案庫</a>
+        <div style="margin-top: 20px;">
+            <a href="https://tw641.github.io/" class="btn" style="background-color: transparent; color: var(--text-color) !important; border: 1px solid var(--border-color); margin-right: 10px;">🏠 返回 TW641 官方首頁</a>
+            
+            <a href="{{ site.github_url }}" target="_blank" class="btn">⭐ 前往 GitHub 開源專案倉庫</a>
         </div>
     </header>
 
