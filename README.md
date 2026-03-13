@@ -79,15 +79,67 @@ The "new hotness" you foresaw is now the stable foundation carrying your legacy.
 
 ---
 
-### ⭐ Light up the Dark: A Final Tribute
+### ⭐ Light up the Täht: A Final Tribute
 
-**"The darker the night, the brighter the light."**
+**"The darker the night, the brighter the Täht."**
 
-Did you know? Dave's surname **"Täht"** literally means **"Star"** in Estonian.
+To the world, he was the unsung hero who silently ripped the excess latency out of the Internet. To the open-source community, he was a legend known as **dtaht** on Reddit and **@mtaht** on Twitter. But behind the code was a man born **Michael**, who chose to live as **Dave**, and gave everything to connect us all. 
 
-If this project helps you, or if you simply want to honor his legacy, please **Light up the "Star"** in the top-right corner of this repository.
+As perhaps the final large-scale Padavan port for legacy devices, this project serves as a digital museum. Before his digital footprints fade into the void of the internet, there are forgotten stories—cold facts and warm lore—that must be preserved here.
 
-Let's keep his Star shining bright in the open-source world, guiding packets through the dark.
+#### 📜 The Lore of an Internet Hero
+
+* ⚖️ **The Judge & The "Disappointment":** Dave's father, Ron, was a respected municipal judge. Among his three sons (two of whom were highly successful engineers), Dave’s nomadic, hacker lifestyle baffled him. Dave even felt he was his parents' "only disappointment." Ron constantly worried, playfully grumbling: *"Why don't you work for IBM? You've been fixing the internet and giving the technology away for free? Again?"* But Dave wasn't chasing money; he was chasing a dream.
+
+* 🎵 **The Guitar & The "Fool" (憨人):** Dave was a sci-fi folk musician who carried his guitar everywhere. To honor his vibrant soul, **OpenWrt officially named their 25.12.0 release "Dave's Guitar."** Poetically, the legendary Taiwanese rock band Mayday (whose anniversary is March 29) has an iconic anthem called [**《憨人》 *(The Fool)***](https://youtu.be/1j_mpwKmlJg). Just three days after their anniversary, on **April 1, 2025 (April Fools' Day)**, Dave passed away. The lyrics of this song perfectly mirror his uncompromising, brilliant, and painful journey:
+  
+  > **「我不願做人奸巧鑽縫，甘願來作憨人...」**
+  > *(I refuse to be cunning and exploit loopholes; I am willing to be a fool...)*
+  > 
+  > **「看到滿天全金條，要煞無半項... 我有我的路，有我的夢。」**
+  > *(Looking at a sky full of gold, yet grasping nothing... I walk my own path, I have my own dream.)*
+  > 
+  > **「不怕路歹行，不怕大雨淋，心上一字敢，面對我的夢。」**
+  > *(Fearing neither the rugged road nor the heavy rain, with the word 'Courage' in my heart, I face my dream.)*
+  
+  Dave was the ultimate "Fool." He turned down incredibly lucrative corporate contracts (the sky full of gold), choosing instead to give his world-changing algorithms (`FQ-CoDel` & `CAKE`) away for free. And when the "heavy rain" of Multiple Sclerosis and partial blindness struck him in his later years, he courageously kept coding.
+
+* 🌍 **The Nicaragua Origin:** The fight against bufferbloat wasn't born in a corporate lab. It started when Dave was building OpenWrt mesh networks for the *One Laptop per Child (OLPC)* project in Nicaragua. Facing severe latency in those harsh environments, he found his lifelong mission.
+
+* 🏄‍♂️ **The "International Man of Mystery":** He was a half-blind surfer, an eccentric musician (who wrote a song called *"It GPLs Me"*), and an avid asteroid exploration nerd. His friend, open-source pioneer Eric S. Raymond (ESR), joked that if Dave earned a cent for every dollar of value he generated for the internet, he could have *"bought the entire country of Nicaragua and financed a space program."* * 🐈 **The Basement Hacker & The Cats:** Much of this core bufferbloat mitigation was actually coded in ESR’s basement. Dave would crash there as a nomad, charm all the household cats, and stubbornly swear he would one day beat his friends at the hardcore board game *Power Grid*.
+
+* ⚔️ **The FCC Crusader:** When the FCC (ET Docket No. 15-170) threatened to lock down router firmware in 2015, Dave rallied internet pioneers—including Vint Cerf and Linus Torvalds—to fight back. **Without his crusade, custom firmware ports like this Padavan project wouldn't even be legally possible today.**
+
+* 🕯️ **Coding Through the Dark:** In his later years, simply reading a forum post became physically exhausting due to his failing eyesight. Yet, he never stopped coding the algorithms that now allow paralyzed patients to use telemedicine and remote families to FaceTime smoothly. He later became Chief Science Officer at *LibreQoS*, which posthumously won the 2025 WISPA Product of the Year.
+
+#### 🌠 "We Are All Starstuff" (The Final Reunion)
+
+There is a heartbreaking, yet incredibly beautiful timeline to Dave's family. 
+
+On June 9, 2012, sitting by his late father Ron's side in his final hours, Dave pondered the afterlife. Rejecting the traditional ideas of harps and heavens, he wrote on his blog:
+
+> *"Of all these things, the one viewpoint I was sure of, the one thing I believe to be true of an afterlife, such as it is, was this: **That yes, we are all starstuff. And it made me cry to think it through.**"*
+
+Fast forward to early 2025. On January 11, his mother Beverly passed away. Dave, despite his fading health, wrote her a beautiful obituary titled *"Beverly Taht Joins Ron"*. 
+
+Less than three months later, on April 1, 2025, Dave's own lifelong game went into its final "extra innings." He passed away, joining his parents. 
+
+Though the timeline of their passing within months of each other is tragic, there is a profound, cosmic peace in knowing that the family is finally reunited in the stars. But the most poetic detail of all? Their family surname, **"Täht,"** literally translates to **"Star"** in Estonian.
+
+#### 🎼 Coda: The Grand Finale (最終章)
+
+In music, a **Coda** is the final passage of a piece, bringing it to a formal and emotional close. As Dave's lifelong symphony reaches its final notes, it perfectly echoes the outro of Mayday's rock anthem. He was a nomad with a guitar, and this is our global chorus for him:
+
+[![MAYDAY - The Fool Live](https://img.youtube.com/vi/olGod8i1j1o/sddefault.jpg)](https://youtu.be/olGod8i1j1o "Click to play Mayday - The Fool (Live Version)")
+
+*(🎧 Click the image to listen to the Live Version of "The Fool" / 點擊圖片聆聽《憨人》萬人合唱版)*
+
+If his monumental work has ever improved your network, please honor this brilliant, selfless "Fool" by **Lighting up the "Star"** in the top-right corner of this repository.
+
+*Let's keep his Star shining bright in the open-source world, guiding packets through the dark.*
+
+> **「啦 啦 啦 啦 啦 啦 啦 啦... 我有我的路，總有一天...」**
+> *(La la la... I have my own path. One day... with Dave's Guitar 🎸)*
 
 ---
 
