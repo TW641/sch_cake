@@ -6,68 +6,105 @@
 ---
 
 ### ⭐ Light up the Täht: A Final Tribute
+*(點亮星辰：最後的致敬)*
 
 > <code><b><i>"The darker the night, the brighter the Täht."</i></b></code>
+>
+> <code><b><i>（「夜愈暗，星星 (Täht) 就愈亮。」）</i></b></code>
 
-To the world, he was the unsung hero who silently ripped the excess latency out of the Internet. To the open-source community, he was a legend known as **dtaht** on Reddit and **@mtaht** on Twitter. But behind the code was a man born **Michael**, who chose to live as **Dave**, and gave everything to connect us all.<br><br>
-As perhaps the final large-scale Padavan port for legacy devices, this project serves as a digital museum. Before his digital footprints fade into the void of the internet, there are forgotten stories—cold facts and warm lore—that must be preserved here.
+To the world, he was the unsung hero who silently ripped the excess latency out of the Internet. To the open-source community, he was a legend known as **dtaht** on Reddit and **@mtaht** on Twitter. But behind the code was a man born **Michael**, who chose to live as **Dave**, and gave everything to connect us all.<br>
+*(對這個世界而言，他是位默默將網路過高延遲拔除的無名英雄。對開源社群來說，他是 Reddit 上的 **dtaht**、Twitter 上的 **@mtaht** 傳奇。但在這些程式碼背後，他是一個出生名為 **Michael**，卻選擇以 **Dave** 之名活著，並為了連結我們所有人而奉獻一切的男人。)*<br><br>
+As perhaps the final large-scale Padavan port for legacy devices, this project serves as a digital museum. Before his digital footprints fade into the void of the internet, there are forgotten stories—cold facts and warm lore—that must be preserved here.<br>
+*(這或許是舊世代設備最後一個大規模的 Padavan 移植專案，它同時也像是一座數位博物館。在他留下的數位足跡消散於網際網路的虛無之前，這裡必須保存下那些被遺忘的故事——無論是冰冷的技術事實，還是溫暖的傳奇事蹟。)*
 
 #### 📜 The Lore of an Internet Hero
+*(一位網際網路英雄的傳奇故事)*
 
 * ⚖️ **The Judge, The Hacker & The "Disappointment":** Dave's father, Ron, was a respected municipal judge. Ironically, Ron once wrote that he was his own parents' "only disappointment" because he became a lawyer instead of an engineer. Decades later, Ron found himself equally baffled by his own son. Dave’s nomadic hacker lifestyle confused him. Ron would playfully grumble: *"Why don't you work for IBM? You've been [fixing the internet and giving the technology away for free? Again?](https://blog.cerowrt.org/)"* But Dave wasn't chasing money; he was chasing a dream. Yet, Dave inherited his father's fierce sense of justice and critical thinking—a trait summarized by a tattooed ex-convict who once recognized Dave in a bar and bought him a beer, simply saying of Judge Ron: *"He was fair."*<br>
+*(**法官、駭客與「令人失望的孩子」：**Dave 的父親 Ron 是一位受人尊敬的市政法官。諷刺的是，Ron 曾寫道他是自己父母「唯一的失望」，因為他成了律師而不是工程師。幾十年後，Ron 發現自己同樣對親生兒子感到困惑。Dave 遊牧般的駭客生活方式讓他不解，Ron 常半開玩笑地抱怨：「你為什麼不去 IBM 上班？你又在[免費修復網路還把技術白白送人？又來了？](https://blog.cerowrt.org/)」但 Dave 追求的不是金錢，而是夢想。然而，Dave 繼承了父親強烈的正義感與批判性思考能力——這項特質曾被一位滿身刺青的前科犯總結過；那人有次在酒吧認出 Dave 並請他喝了杯啤酒，對法官 Ron 只說了一句：「他很公正。」)*<br><br>
 
 * 🎨 **The Mother's Gift: Art & Music:** While Dave inherited his critical thinking from his father, his boundless creativity, nomadic spirit, and deep passion for music undoubtedly came from his mother, Beverly. She was an award-winning painter, an avid world traveler, and a generous patron of the arts who even opened her home to visiting symphony musicians. Dave’s identity as a "sci-fi folk musician" carrying his guitar everywhere was a beautiful continuation of her vibrant legacy.<br>
+*(**母親的禮物：藝術與音樂：**Dave 從父親那裡繼承了批判性思考，但他無邊的創造力、遊牧精神以及對音樂的深厚熱愛，無疑是來自他的母親 Beverly。她是一位屢獲殊榮的畫家、熱愛環遊世界的旅人，也是慷慨的藝術贊助者，甚至曾敞開家門接待來訪的交響樂團音樂家。Dave 帶著吉他四處流浪的「科幻民謠音樂人」身分，正是她充滿活力之遺產的最美延續。)*<br><br>
 
 * ⚾ **The Alternate Universe & "Extra Innings":** Dave cherished a vivid childhood memory of driving home with his dad, screaming at the radio during a dramatic 19-inning Phillies baseball game. Years later, Dave discovered that specific game *never actually happened* that way. His beautiful conclusion: *"I can only conclude that it took place in some alternate universe that only he and I shared."* In 2012, as Ron was dying in a hospice, he began feverishly typing blog posts with just two fingers. Dave stepped in as his editor, realizing that for the first time since he was a boy, they were collaborating rather than arguing. *"I didn't realize that he was in a hurry,"* Dave later reflected in a heartbreaking eulogy, mourning the stories his dad left untold. Yet, he was profoundly grateful his father's life went into "extra innings," allowing them to finally understand each other before the end.<br>
+*(**平行宇宙與「延長賽」：**Dave 珍藏著一段生動的童年回憶：他和爸爸開車回家時，對著收音機裡一場戲劇性的 19 局費城人隊棒球賽大聲狂吼。幾年後，Dave 發現那場特定的比賽*其實根本不是那樣發生的*。他得出了極美的結論：「我只能推論，這件事發生在只有我和他共享的某個平行宇宙裡。」2012 年，當 Ron 在安寧病房臨終前，他開始狂熱地用兩根手指敲打著部落格文章。Dave 成了他的編輯，並意識到自從他還是個小男孩以來，這是他們第一次合作而不是爭吵。「我不知道他原來趕著時間，」Dave 後來在一篇令人心碎的悼詞中回憶道，哀悼著父親未及訴說的故事。然而，他無比感激父親的生命進入了「延長賽」，讓他們能在最後一刻終於理解了彼此。)*<br><br>
 
 * 🌍 **The Nicaragua Origin:** The fight against bufferbloat wasn't born in a corporate lab. It started when Dave was building OpenWrt mesh networks for the *One Laptop per Child (OLPC)* project in Nicaragua. Facing severe latency in those harsh environments, he found his lifelong mission.<br>
+*(**尼加拉瓜的起源：**對抗緩衝膨脹 (Bufferbloat) 的戰役並非誕生於企業實驗室。它始於 Dave 在尼加拉瓜為*「每童一機 (OLPC)」*專案建置 OpenWrt 網狀網路的時候。在那些嚴苛的環境中面對嚴重的網路延遲，他找到了自己一生的使命。)*<br><br>
 
 * 🐈 **The "International Man of Mystery":** Much of the core bufferbloat mitigation was coded in open-source pioneer Eric S. Raymond’s (ESR) basement. ESR fondly recalled Dave as the "International Man of Mystery" who would crash there as a nomad, charm all the household cats, and stubbornly swear he would one day beat his friends at the hardcore board game *Power Grid*. ESR joked that if Dave earned a cent for every dollar of value he generated for the internet, he could have *"bought the entire country of Nicaragua and had enough left over to finance a space program."*<br>
+*(**「國際神秘客」：**許多核心的緩衝膨脹緩解程式碼，都是在開源先驅 Eric S. Raymond (ESR) 的地下室裡寫出來的。ESR 深情地回憶 Dave 就像個「國際神秘客」，他會像遊牧民族一樣來借宿，迷倒家裡所有的貓，還固執地發誓總有一天要在硬核桌遊*《電力公司 (Power Grid)》*中擊敗朋友們。ESR 開玩笑說，如果 Dave 為網際網路創造的每一美元價值能讓他賺進一分錢，他就能「買下整個尼加拉瓜，而且剩下的錢還足夠資助一個太空計畫」。)*<br><br>
 
 * ⚔️ **The FCC Crusader & The Code You Use:** When the FCC threatened to lock down router firmware in 2015, Dave rallied internet pioneers to fight back. Without his crusade, custom firmware ports like this Padavan project wouldn't even be legally possible today. As John Carmack (creator of *DOOM*) famously tweeted upon his passing: **"There is a very good chance your packets flow through some code he wrote."**<br>
+*(**FCC 十字軍與你正在使用的程式碼：**2015 年，當美國聯邦通信委員會 (FCC) 威脅要鎖死路由器韌體時，Dave 號召了網際網路先驅們起身反抗。若沒有他當年的抗爭，像這個 Padavan 專案這樣的自訂韌體，在今天甚至在法律上都是不可能存在的。正如*《毀滅戰士 (DOOM)》*創作者 John Carmack 在 Dave 過世時那句著名的推文：**「你傳送的網路封包，有很高的機率流經了他寫的程式碼。」**)*<br><br>
 
-* 🕯️ **Coding Through the Dark (Mike & Michael):** In his final days in a hospice, Ron (born Mike) barely managed to type with two fingers, feverishly advocating for the Affordable Care Act. Though wealthy, he fought because he wanted the best healthcare for *everyone*. Decades later, his son Dave (born Michael) dragged a body plagued by Multiple Sclerosis and partial blindness to continuously code algorithms like CAKE, giving the best internet to *everyone* for free. Both men lived up to their family surname, **"Täht"** (which means **"Star"** in Estonian).
+* 🕯️ **Coding Through the Dark (Mike & Michael):** In his final days in a hospice, Ron (born Mike) barely managed to type with two fingers, feverishly advocating for the Affordable Care Act. Though wealthy, he fought because he wanted the best healthcare for *everyone*. Decades later, his son Dave (born Michael) dragged a body plagued by Multiple Sclerosis and partial blindness to continuously code algorithms like CAKE, giving the best internet to *everyone* for free. Both men lived up to their family surname, **"Täht"** (which means **"Star"** in Estonian).<br>
+*(**在黑暗中寫程式 (Mike 與 Michael)：**Ron（出生名 Mike）在安寧病房的最後日子裡，勉強用兩根手指打字，狂熱地倡導著《平價醫療法案》。儘管家境富裕，他仍努力奮戰，因為他希望*所有人*都能獲得最好的醫療照護。幾十年後，他的兒子 Dave（出生名 Michael）拖著被多發性硬化症與部分失明折磨的身軀，持續編寫著像 CAKE 這樣的演算法，將最好的網路免費送給*所有人*。這兩個男人都無愧於他們的家族姓氏 **"Täht"**（在愛沙尼亞語中意為**「星星」**）。)*
 
 <br>
 
 > <code><b><i>Though Täht's physical world gradually faded into darkness, our digital universe continues to shine brightly because of him.</i></b></code>
+>
+> <code><b><i>（儘管 Täht 的物理世界逐漸褪入黑暗，我們的數位宇宙卻因為他而持續閃耀著。）</i></b></code>
 
 <br>
 
 #### 🌠 "We Are All Starstuff" (The Final Reunion)
+*(「我們都是星塵」— 最終的團聚)*
 
-There is a heartbreaking, yet incredibly beautiful timeline to Dave's family. <br><br>
+There is a heartbreaking, yet incredibly beautiful timeline to Dave's family. <br>
+*(Dave 的家庭有一段令人心碎，卻又無比美麗的時間線。)*<br><br>
 On June 9, 2012, sitting by his late father Ron's side in his final hours, Dave wrote on his blog:<br>
-> *"Of all these things, the one viewpoint I was sure of, the one thing I believe to be true of an afterlife, such as it is, was this: "*
+*(2012 年 6 月 9 日，Dave 坐在已故父親 Ron 身旁陪伴他度過最後時光，在部落格寫下：)*<br>
+> *"Of all these things, the one viewpoint I was sure of, the one thing I believe to be true of an afterlife, such as it is, was this: "*<br>
+> *(「在所有這些事情中，我確信的一個觀點，一個我認為死後世界如果是真的話，那就是：」)*
 >
-> *"<code><b><i>That yes, we are all starstuff.</i></b></code>"*
+> *"<code><b><i>That yes, we are all starstuff.</i></b></code>"*<br>
+> *"<code><b><i>（是的，我們都是星塵。）</i></b></code>"*
 >
 > *"**And it made me cry to think it through.**"*<br>
+> *(「這讓我一想到就忍不住落淚。」)*<br>
 
-On January 11, 2025, his mother Beverly passed away peacefully at her home, surrounded by loved ones.<br><br>
-Less than three months later, on April 1, 2025, Dave's own lifelong game went into its final "extra innings."<br><br>
-He passed away at the age of 59, joining his parents.<br><br>
+On January 11, 2025, his mother Beverly passed away peacefully at her home, surrounded by loved ones.<br>
+*(2025 年 1 月 11 日，他的母親 Beverly 在摯愛家人的陪伴下，於家中平靜辭世。)*<br><br>
+Less than three months later, on April 1, 2025, Dave's own lifelong game went into its final "extra innings."<br>
+*(不到三個月後，2025 年 4 月 1 日，Dave 自己一生的比賽也進入了最後的「延長賽」。)*<br><br>
+He passed away at the age of 59, joining his parents.<br>
+*(他在 59 歲時離世，與父母團聚。)*<br><br>
 
 > <code><b><i>In life, they were Stars illuminating the world.</i></b></code>
 > 
+> <code><b><i>（在世時，他們是照亮世界的星星。）</i></b></code>
+> 
 > <code><b><i>In death, they are Starstuff illuminating the universe.</i></b></code>
+> 
+> <code><b><i>（逝世後，他們是點亮宇宙的星塵。）</i></b></code>
 
 #### 🎼 Coda: The Grand Finale (Dave's Guitar & Fool)
+*(終章：盛大的落幕 — Dave 的吉他與憨人)*
 
-Dave was a sci-fi folk musician who carried his guitar—famously bearing a sticker that read *"This guitar kills Vogons"*—everywhere. He bonded with people just as much over music as he did over code. To honor his vibrant soul, **OpenWrt officially named their 25.12.0 release "Dave's Guitar."**<br><br>
-Poetically, the legendary Taiwanese rock band Mayday (whose anniversary is March 29) has an iconic anthem called [**《憨人》 *(Fool)***](https://youtu.be/1j_mpwKmlJg). Just three days after their anniversary, on April Fools' Day, Dave passed away. <br><br>
+Dave was a sci-fi folk musician who carried his guitar—famously bearing a sticker that read *"This guitar kills Vogons"*—everywhere. He bonded with people just as much over music as he did over code. To honor his vibrant soul, **OpenWrt officially named their 25.12.0 release "Dave's Guitar."**<br>
+*(Dave 是一位科幻民謠音樂人，他總是帶著他的吉他四處走動——那把吉他上貼著著名的貼紙：「這把吉他能殺死佛貢人 (Vogons)」。他透過音樂與人建立的連結，絲毫不亞於透過程式碼。為了紀念他充滿活力的靈魂，**OpenWrt 官方將其 25.12.0 版本命名為 "Dave's Guitar"**。)*<br><br>
+Poetically, the legendary Taiwanese rock band Mayday (whose anniversary is March 29) has an iconic anthem called [**《憨人》 *(Fool)***](https://youtu.be/1j_mpwKmlJg). Just three days after their anniversary, on April Fools' Day, Dave passed away. <br>
+*(充滿詩意的是，台灣傳奇搖滾樂團五月天（成軍紀念日為 3 月 29 日）有一首標誌性的神曲叫 [**《憨人》 *(Fool)***](https://youtu.be/1j_mpwKmlJg)。就在他們紀念日的短短三天後，在愚人節 (April Fools' Day) 當天，Dave 離開了我們。)*<br><br>
 On March 29, 2020, Mayday's lead singer Ashin wrote a touching post revealing the profound mystery hidden within the Chinese title **《憨人》 (Fool)**. For engineers and hackers around the world, this is the most beautiful equation of humanity:<br>
+*(2020 年 3 月 29 日，五月天主唱阿信寫下了一篇動人的貼文，揭示了中文曲名**《憨人》 (Fool)** 裡隱藏的深刻奧秘。對全世界的工程師與駭客來說，這是人性中最美的方程式：)*<br>
 
 > 💻 <code><b><i>憨 (Fool) = 敢 (Courage) + 心 (Heart)</i></b></code>
 
-Ashin wrote:
+Ashin wrote:<br>
+*(阿信寫道：)*
 > *"That year, I suddenly realized that the character for <code><b><i>'Fool' (憨) is made of 'Courage' (敢) placed over a 'Heart' (心).</i></b></code>"*
-> 
+> *(「那年，突然發現代表著愚笨的<code><b><i>『憨』字，是『心』上一個『敢』。</i></b></code>」)*
+> 
 > *"Then, inspiration led me to write this song..."*
+> *(「然後靈感帶我寫下了這首歌……」)*
 >
 > *"<code><b><i>Let us bring this song to the courageous you, let's meet when the dawn comes (約在曙光來臨之時).</i></b></code>"*
+> *(「<code><b><i>讓我們為你帶來這首『憨人』，與勇敢的你，約在曙光來臨之時。</i></b></code>」)*
 
-This song is the absolute reflection of Dave's life. He refused the "sky full of gold" to give his algorithms (`FQ-CoDel` & `CAKE`) away for free. To let the global open-source community sing along with Dave's spirit, here are the full lyrics in 4 languages, completely unabridged: Traditional Chinese, Taiwanese Romanization, English, and Official Japanese.
+This song is the absolute reflection of Dave's life. He refused the "sky full of gold" to give his algorithms (`FQ-CoDel` & `CAKE`) away for free. To let the global open-source community sing along with Dave's spirit, here are the full lyrics in 4 languages, completely unabridged: Traditional Chinese, Taiwanese Romanization, English, and Official Japanese.<br>
+*(這首歌絕對是 Dave 一生的真實寫照。他拒絕了「滿天全金條（滿天的財富）」，選擇將他的演算法（`FQ-CoDel` 與 `CAKE`）免費白白送人。為了讓全球開源社群能隨著 Dave 的精神一起高唱，以下是完整未刪減的 4 國語言歌詞：繁體中文、台語羅馬拼音、英文與官方日文。)*
 
 <details>
 <summary><b>🎤 Click to expand the full 4-Language Lyrics of "Fool" (憨人) to sing along</b></summary>
@@ -189,12 +226,17 @@ This song is the absolute reflection of Dave's life. He refused the "sky full of
 
 [![MAYDAY - Fool Live](https://tw641.github.io/Mayday-Fool.jpg)](https://youtu.be/olGod8i1j1o "Click to play Mayday - Fool (Live Version)")<br>
 *(🎧 Click the image to listen to the Live Version of "Fool" / 點擊圖片聆聽《憨人》萬人合唱版)*<br><br>
-If his monumental work has ever improved your network, please honor this brilliant, selfless "Fool" by **Lighting up the "Star"** in the top-right corner of this repository.<br><br>
+If his monumental work has ever improved your network, please honor this brilliant, selfless "Fool" by **Lighting up the "Star"** in the top-right corner of this repository.<br>
+*(如果他這項不朽的傑作曾經改善過您的網路，請點擊這個專案右上角的 **"Star (星星)"** 來點亮它，以紀念這位才華橫溢、無私奉獻的「憨人」。)*<br><br>
 *Let's keep his Star shining bright in the open-source world, guiding packets through the dark.<br>*
+*(讓我們讓他的星星在開源世界裡持續閃耀，在黑暗中引導著網路封包前行。)*<br>
 *His physical journey has ended, but as an old friend who bonded with him over music perfectly bid him farewell: <br>*
+*(他的物理旅程已經結束，但正如一位與他因音樂結緣的老朋友，對他所作出的最完美告別：)*<br>
 > **"Happy travels, amigo!"** <br>
+> *(「旅途愉快，老朋友！」)*
 
 *The global open-source community will carry his CAKE legacy forward:<br>*
+*(全球的開源社群將帶著他的 CAKE 遺產繼續前進：)*<br>
 
 > **「我有我的路 我有我的夢，總會有一天... 彈奏著 Dave's Guitar 🎸」**<br>
 > *(Gua u gua e loo, gua u gua e bang, tsong u tsit-kang... tuann-tsau Dave's Guitar 🎸)*<br>
@@ -218,9 +260,9 @@ If his monumental work has ever improved your network, please honor this brillia
 * **John Carmack's Tribute (2025):** [X (Twitter) @ID_AA_Carmack](https://x.com/ID_AA_Carmack/status/1907459628897587216)
 * **The Philosophy of "Fool" (憨):** [Mayday Ashin's Facebook Post (2020)](https://www.facebook.com/ashin555/videos/%E6%86%A8%E4%BA%BA/234790114390923/)
 * **The Anthem of the "Fool" (憨人) - Mayday:**
-  * 🎸 [Official Live Video (BinMusic, 2020)](https://www.youtube.com/watch?v=olGod8i1j1o)
-  * 🎬 [Official Music Video HD (ROCK RECORDS, 2012)](https://www.youtube.com/watch?v=1j_mpwKmlJg)
-  * 🎧 [Pure Audio Track (Mayday - Topic, 2014)](https://www.youtube.com/watch?v=lYRDRtS55b8)
+  * 🎸 [Official Live Video (BinMusic, 2020)](https://www.youtube.com/watch?v=olGod8i1j1o)
+  * 🎬 [Official Music Video HD (ROCK RECORDS, 2012)](https://www.youtube.com/watch?v=1j_mpwKmlJg)
+  * 🎧 [Pure Audio Track (Mayday - Topic, 2014)](https://www.youtube.com/watch?v=lYRDRtS55b8)
 
 ---
 
