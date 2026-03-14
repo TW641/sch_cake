@@ -43,9 +43,9 @@ On June 9, 2012, sitting by his late father Ron's side in his final hours, Dave 
 On January 11, 2025, his mother Beverly passed away peacefully at her home, surrounded by loved ones.<br><br>
 Less than three months later, on April 1, 2025, Dave's own lifelong game went into its final "extra innings." He passed away at the age of 59, joining his parents.<br><br>
 
-> `*In life, they were Stars illuminating the world.*`
+> <code><b><i>In life, they were Stars illuminating the world.</i></b></code>
 > 
-> `*In death, they are Starstuff illuminating the universe.*`
+> <code><b><i>In death, they are Starstuff illuminating the universe.</i></b></code>
 
 #### 🎼 Coda: The Grand Finale (Dave's Guitar & Fool)
 
