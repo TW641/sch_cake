@@ -160,8 +160,8 @@ This song is the absolute reflection of Dave's life. He refused the "sky full of
 <i>(分かってる いつかその日が来るって)</i><br><br>
 
 <b>啦～啦～啦～啦～</b><br>
-<i>La~La~La~La~</i><br>
-<i>(La~La~La~La~)</i><br>
+<i>La～La～La～La～</i><br>
+<i>(La～La～La～La～)</i><br>
 <i>(声を聞かせて)</i><br><br>
 
 <b>我有我的路 我有我的夢</b><br>
