@@ -193,7 +193,7 @@ If his monumental work has ever improved your network, please honor this brillia
 *Let's keep his Star shining bright in the open-source world, guiding packets through the dark.<br>*
 *His physical journey has ended, but as an old friend who bonded with him over music perfectly bid him farewell: <br>*
 > **"Happy travels, amigo!"** <br>
->
+
 *The global open-source community will carry his CAKE legacy forward:<br>*
 
 > **「我有我的路 我有我的夢，總會有一天... 彈奏著 Dave's Guitar 🎸」**<br>
