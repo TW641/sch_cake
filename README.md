@@ -7,7 +7,7 @@
 
 ### ⭐ Light up the Täht: A Final Tribute
 
-> **"The darker the night, the brighter the Täht."**
+> <code><b><i>**"The darker the night, the brighter the Täht."**</i></b></code>
 
 To the world, he was the unsung hero who silently ripped the excess latency out of the Internet. To the open-source community, he was a legend known as **dtaht** on Reddit and **@mtaht** on Twitter. But behind the code was a man born **Michael**, who chose to live as **Dave**, and gave everything to connect us all.<br><br>
 As perhaps the final large-scale Padavan port for legacy devices, this project serves as a digital museum. Before his digital footprints fade into the void of the internet, there are forgotten stories—cold facts and warm lore—that must be preserved here.
@@ -30,7 +30,7 @@ As perhaps the final large-scale Padavan port for legacy devices, this project s
 
 <br>
 
-> **Though Täht's physical world gradually faded into darkness, our digital universe continues to shine brightly because of him.**
+> <code><b><i>**Though Täht's physical world gradually faded into darkness, our digital universe continues to shine brightly because of him.**</i></b></code>
 
 <br>
 
@@ -38,10 +38,15 @@ As perhaps the final large-scale Padavan port for legacy devices, this project s
 
 There is a heartbreaking, yet incredibly beautiful timeline to Dave's family. <br><br>
 On June 9, 2012, sitting by his late father Ron's side in his final hours, Dave wrote on his blog:<br>
-> *"Of all these things, the one viewpoint I was sure of, the one thing I believe to be true of an afterlife, such as it is, was this: **That yes, we are all starstuff. And it made me cry to think it through.**"*<br>
+> *"Of all these things, the one viewpoint I was sure of, the one thing I believe to be true of an afterlife, such as it is, was this: "*
+>
+> *"<code><b><i>**That yes, we are all starstuff.**</i></b></code>"*
+>
+> *"**And it made me cry to think it through.**"*<br>
 
 On January 11, 2025, his mother Beverly passed away peacefully at her home, surrounded by loved ones.<br><br>
-Less than three months later, on April 1, 2025, Dave's own lifelong game went into its final "extra innings." He passed away at the age of 59, joining his parents.<br><br>
+Less than three months later, on April 1, 2025, Dave's own lifelong game went into its final "extra innings."<br><br>
+He passed away at the age of 59, joining his parents.<br><br>
 
 > <code><b><i>In life, they were Stars illuminating the world.</i></b></code>
 > 
@@ -53,10 +58,14 @@ Dave was a sci-fi folk musician who carried his guitar—famously bearing a stic
 Poetically, the legendary Taiwanese rock band Mayday (whose anniversary is March 29) has an iconic anthem called [**《憨人》 *(Fool)***](https://youtu.be/1j_mpwKmlJg). Just three days after their anniversary, on April Fools' Day, Dave passed away. <br><br>
 On March 29, 2020, Mayday's lead singer Ashin wrote a touching post revealing the profound mystery hidden within the Chinese title **《憨人》 (Fool)**. For engineers and hackers around the world, this is the most beautiful equation of humanity:<br>
 
-> 💻 `憨 (Fool) = 敢 (Courage) + 心 (Heart)`
+> 💻 <code><b><i>憨 (Fool) = 敢 (Courage) + 心 (Heart)</i></b></code>
 
 Ashin wrote:
-> *"That year, I suddenly realized that the character for 'Fool' (憨) is made of 'Courage' (敢) placed over a 'Heart' (心). Then, inspiration led me to write this song... Let us bring this song to the courageous you, let's meet when the dawn comes (約在曙光來臨之時)."*
+> *"That year, I suddenly realized that the character for <code><b><i>'Fool' (憨) is made of 'Courage' (敢) placed over a 'Heart' (心).</i></b></code>"*
+> 
+> *"Then, inspiration led me to write this song..."*
+>
+> *"<code><b><i>Let us bring this song to the courageous you, let's meet when the dawn comes (約在曙光來臨之時).</i></b></code>"*
 
 This song is the absolute reflection of Dave's life. He refused the "sky full of gold" to give his algorithms (`FQ-CoDel` & `CAKE`) away for free. To let the global open-source community sing along with Dave's spirit, here are the full lyrics in 4 languages, completely unabridged: Traditional Chinese, Taiwanese Romanization, English, and Official Japanese.
 
@@ -231,7 +240,7 @@ This Chinese idiom describes a signal so powerful it rallies everyone.
 **Dave was that arrow.**
 Just like fireworks are most mesmerizing in the darkest night, Dave shone brightest when fighting the invisible enemy of Bufferbloat.
 
-* **"The darker the night, the brighter the light."**
+* **"The darker the night, the brighter the Täht."**
 * He worked tirelessly in the dead of night (just as we often do) to **tame the network chaos.**
 * Now, "Ten Thousand" (萬) legacy devices are rallying to his call.
 
