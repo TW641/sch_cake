@@ -62,117 +62,118 @@ This song is the absolute reflection of Dave's life. He refused the "sky full of
 
 <details>
 <summary><b>🎤 Click to expand the full 4-Language Lyrics of "Fool" (憨人) to sing along</b></summary>
-<br>
 
-> **我的心內感覺 人生的沈重 不敢來振動**<br>
-> *Gua e sim-lai kam-kak lin-sing e tim-tang, M-kann lai tin-tang*<br>
-> *(In my heart I feel how much seriousness there is in life, I don’t dare touch it)*<br>
-> *(僕の心は 人生の重みに 動くことを躊躇してる)*<br><br>
-> 
-> **我不是好子 嘛不是歹人 我只是愛眠夢**<br>
-> *Gua m-si ho kiann mah m-si phainn-lang, Gua tsi-si ai bin-bang*<br>
-> *(I’m not a good person, but I’m also not a bad person, I’m just someone who loves to dream)*<br>
-> *(僕はいいやつでも 悪いやつでもない ただ夢見がちなだけなんだ)*<br><br>
-> 
-> **我不願隨浪隨風 飄浪西東 親像船無港**<br>
-> *Gua m-guan sui ing sui hong phiau long se tang, Tshin-tshiunn tsun bo kang*<br>
-> *(I’m not willing to float with the tide, Like a drifting boat that cannot find a harbor)*<br>
-> *(波と風にまかせ あてもなく漂うなんて嫌だ 行き着く港のない船のように)*<br><br>
-> 
-> **我不願做人 奸巧鑽縫 甘願來作憨人**<br>
-> *Gua m-guan tsue lang kan khiau lang pang, Kam-guan lai tsue gong lang*<br>
-> *(I don’t want to be a devious opportunist, I’d rather be a fool)*<br>
-> *(僕は器用になんて生きたくない 不器用でいい)*<br><br>
-> 
-> **我不是頭腦空空 我不是一隻米蟲**<br>
-> *Gua m-si thau-nau khang khang, Gua m-si tsit tsiah bi-thang*<br>
-> *(It’s not that my head is empty, It’s not that I’m useless)*<br>
-> *(僕は頭が空っぽでも 怠け者でもない)*<br><br>
-> 
-> **人啊人 一世人 要安怎歡喜 過春夏秋冬**<br>
-> *Lang ah lang tsit si lang, Beh an-tsuann huann-hi kue tshun-ha tshiu-tang*<br>
-> *(People, oh! A lifetime is so long, How can we happily pass the years)*<br>
-> *(人の一生って どうやって楽しく 春夏秋冬を過ごすかさ)*<br><br>
-> 
-> **我有我的路 有我的夢 夢中的那個世界 甘講伊是一場空**<br>
-> *Gua u gua e loo u gua e bang, Bang-tiong e hit e se-kai kam kong i si tsit tiunn khong*<br>
-> *(I have my road, I have my dreams, Is it possible the world of my dreams is just an illusion?)*<br>
-> *(僕には僕の道が 夢がある 夢の中のあの世界は まさかまぼろし？)*<br><br>
-> 
-> **我走過的路 只有希望 希望你我講過的話 放在心肝內 總有一天**<br>
-> *Gua kiann kue e loo tsi-u hi-bang, Hi-bang li gua kong ke e ue pang tsai sim-kuann lai tsong u tsit-kang*<br>
-> *(On the road that I’ve traveled, I only have hope, Hope that all we’ve talked about is in our hearts, believing one day it will all come true)*<br>
-> *(僕が歩んできた道には 希望だけが 僕が話したことを 心にとめておいて いつの日かきっと)*<br><br>
-> 
-> **看到滿天全金條 要煞無半項 環境來戲弄**<br>
-> *Khuann-kau mua-thinn tsuan kim-tiau beh suah bo puann hang, Khuan-king lai hi-lang*<br>
-> *(Seeing gold dance through the sky, I reach out for it but grasp nothing, It’s like fate mocking me)*<br>
-> *(空いっぱいのダイヤも 一つだってつかめない 神様のいたずらで)*<br><br>
-> 
-> **背景無夠強 天才無夠弄 逐項是攏輸人**<br>
-> *Pue-king bo kau kiong thian-tsai bo kau lang, Tak-hang si long su lang*<br>
-> *(My background’s not good enough, my talent’s not used enough, In everything I lose to other people)*<br>
-> *(生まれも 才能もたいしたことない 勝てるものなんて無い)*<br><br>
-> 
-> **只好看破這虛華 不怕路歹行 不怕大雨淋**<br>
-> *Tsi-ho khuann-phua tse hi-hua, M-kiann loo phainn-kiann, M-kiann tua hoo lam*<br>
-> *(I’d best see through all this false splendor, I'm unafraid of how difficult the road ahead may be, And unafraid of being drenched in the rain)*<br>
-> *(虚栄を見抜き 険しい道 大雨を恐れないだけさ)*<br><br>
-> 
-> **心上一字敢 面對我的夢 甘願來作憨人**<br>
-> *Sim siong tsit li kam bin-tui gua e bang, Kam guan lai tsue gong lang*<br>
-> *(On my heart, there is one word daring, when confronting my dreams, I’m willing to be a fool)*<br>
-> *(心には勇敢の文字 夢に向って 不器用でいい)*<br><br>
-> 
-> **我不是頭腦空空 我不是一隻米蟲**<br>
-> *Gua m-si thau-nau khang khang, Gua m-si tsit tsiah bi-thang*<br>
-> *(It’s not that my head is empty, It’s not that I’m useless)*<br>
-> *(僕は頭が空っぽでも 怠け者でもない)*<br><br>
-> 
-> **人啊人 一世人 要安怎歡喜 過春夏秋冬**<br>
-> *Lang ah lang tsit si lang, Beh an-tsuann huann-hi kue tshun-ha tshiu-tang*<br>
-> *(People, oh! A lifetime is so long, How can we happily pass the years)*<br>
-> *(人の一生って どうやって楽しく 春夏秋冬を過ごすかさ)*<br><br>
-> 
-> **我有我的路 有我的夢 夢中的那個世界 甘講伊是一場空**<br>
-> *Gua u gua e loo u gua e bang, Bang-tiong e hit e se-kai kam kong i si tsit tiunn khong*<br>
-> *(I have my road, I have my dreams, Is it possible the world of my dreams is just an illusion?)*<br>
-> *(僕には僕の道が 夢がある 夢の中のあの世界は まさかまぼろし？)*<br><br>
-> 
-> **我走過的路 只有希望 希望你我講過的話 放在心肝內 總有一天**<br>
-> *Gua kiann kue e loo tsi-u hi-bang, Hi-bang li gua kong ke e ue pang tsai sim-kuann lai tsong u tsit-kang*<br>
-> *(On the road that I’ve traveled, I only have hope, Hope that all we’ve talked about is in our hearts, believing one day it will all come true)*<br>
-> *(僕が歩んできた道には 希望だけが 僕が話したことを 心にとめておいて いつの日かきっと)*<br><br>
-> 
-> **我有我的路 有我的夢 夢中的那個世界 甘講伊是一場空**<br>
-> *Gua u gua e loo u gua e bang, Bang-tiong e hit e se-kai kam kong i si tsit tiunn khong*<br>
-> *(I have my road, I have my dreams, Is it possible the world of my dreams is just an illusion?)*<br>
-> *(僕には僕の道が 夢がある 夢の中のあの世界は まさかまぼろし？)*<br><br>
-> 
-> **我走過的路 只有希望 希望你我講過的話 放在心肝內 總有一天**<br>
-> *Gua kiann kue e loo tsi-u hi-bang, Hi-bang li gua kong ke e ue pang tsai sim-kuann lai tsong u tsit-kang*<br>
-> *(On the road that I’ve traveled, I only have hope, Hope that all we’ve talked about is in our hearts, believing one day it will all come true)*<br>
-> *(僕が歩んできた道には 希望だけが 僕が話したことを 心にとめておいて いつの日かきっと)*<br><br>
-> 
-> **我知影總會有一天**<br>
-> *Gua tsi ing tsong u tsit-kang*<br>
-> *(I know that there will always be a day)*<br>
-> *(分かってる いつかその日が来るって)*<br><br>
-> 
-> **啦 啦啦啦....**<br>
-> *La~La~La~La~*<br>
-> *(La~La~La~La~)*<br>
-> *(声を聞かせて)*<br><br>
-> 
-> **我有我的路 我有我的夢**<br>
-> *Gua u gua e loo, gua u gua e bang*<br>
-> *(I have my road, I have my dreams)*<br>
-> *(僕には僕の道が 夢がある)*<br><br>
-> 
-> **總會有一天 總會有一天**<br>
-> *Tsong u tsit-kang, tsong u tsit-kang*<br>
-> *(One day... One day...)*<br>
-> *(いつの日かきっと... いつの日かきっと...)*<br>
+<blockquote>
+<b>我的心內感覺 人生的沈重 不敢來振動</b><br>
+<i>Gua e sim-lai kam-kak lin-sing e tim-tang, M-kann lai tin-tang</i><br>
+<i>(In my heart I feel how much seriousness there is in life, I don’t dare touch it)</i><br>
+<i>(僕の心は 人生の重みに 動くことを躊躇してる)</i><br><br>
+
+<b>我不是好子 嘛不是歹人 我只是愛眠夢</b><br>
+<i>Gua m-si ho kiann mah m-si phainn-lang, Gua tsi-si ai bin-bang</i><br>
+<i>(I’m not a good person, but I’m also not a bad person, I’m just someone who loves to dream)</i><br>
+<i>(僕はいいやつでも 悪いやつでもない ただ夢見がちなだけなんだ)</i><br><br>
+
+<b>我不願隨浪隨風 飄浪西東 親像船無港</b><br>
+<i>Gua m-guan sui ing sui hong phiau long se tang, Tshin-tshiunn tsun bo kang</i><br>
+<i>(I’m not willing to float with the tide, Like a drifting boat that cannot find a harbor)</i><br>
+<i>(波と風にまかせ あてもなく漂うなんて嫌だ 行き着く港のない船のように)</i><br><br>
+
+<b>我不願做人 奸巧鑽縫 甘願來作憨人</b><br>
+<i>Gua m-guan tsue lang kan khiau lang pang, Kam-guan lai tsue gong lang</i><br>
+<i>(I don’t want to be a devious opportunist, I’d rather be a fool)</i><br>
+<i>(僕は器用になんて生きたくない 不器用でいい)</i><br><br>
+
+<b>我不是頭腦空空 我不是一隻米蟲</b><br>
+<i>Gua m-si thau-nau khang khang, Gua m-si tsit tsiah bi-thang</i><br>
+<i>(It’s not that my head is empty, It’s not that I’m useless)</i><br>
+<i>(僕は頭が空っぽでも 怠け者でもない)</i><br><br>
+
+<b>人啊人 一世人 要安怎歡喜 過春夏秋冬</b><br>
+<i>Lang ah lang tsit si lang, Beh an-tsuann huann-hi kue tshun-ha tshiu-tang</i><br>
+<i>(People, oh! A lifetime is so long, How can we happily pass the years)</i><br>
+<i>(人の一生って どうやって楽しく 春夏秋冬を過ごすかさ)</i><br><br>
+
+<b>我有我的路 有我的夢 夢中的那個世界 甘講伊是一場空</b><br>
+<i>Gua u gua e loo u gua e bang, Bang-tiong e hit e se-kai kam kong i si tsit tiunn khong</i><br>
+<i>(I have my road, I have my dreams, Is it possible the world of my dreams is just an illusion?)</i><br>
+<i>(僕には僕の道が 夢がある 夢の中のあの世界は まさかまぼろし？)</i><br><br>
+
+<b>我走過的路 只有希望 希望你我講過的話 放在心肝內 總有一天</b><br>
+<i>Gua kiann kue e loo tsi-u hi-bang, Hi-bang li gua kong ke e ue pang tsai sim-kuann lai tsong u tsit-kang</i><br>
+<i>(On the road that I’ve traveled, I only have hope, Hope that all we’ve talked about is in our hearts, believing one day it will all come true)</i><br>
+<i>(僕が歩んできた道には 希望だけが 僕が話したことを 心にとめておいて いつの日かきっと)</i><br><br>
+
+<b>看到滿天全金條 要煞無半項 環境來戲弄</b><br>
+<i>Khuann-kau mua-thinn tsuan kim-tiau beh suah bo puann hang, Khuan-king lai hi-lang</i><br>
+<i>(Seeing gold dance through the sky, I reach out for it but grasp nothing, It’s like fate mocking me)</i><br>
+<i>(空いっぱいのダイヤも 一つだってつかめない 神様のいたずらで)</i><br><br>
+
+<b>背景無夠強 天才無夠弄 逐項是攏輸人</b><br>
+<i>Pue-king bo kau kiong thian-tsai bo kau lang, Tak-hang si long su lang</i><br>
+<i>(My background’s not good enough, my talent’s not used enough, In everything I lose to other people)</i><br>
+<i>(生まれも 才能もたいしたことない 勝てるものなんて無い)</i><br><br>
+
+<b>只好看破這虛華 不怕路歹行 不怕大雨淋</b><br>
+<i>Tsi-ho khuann-phua tse hi-hua, M-kiann loo phainn-kiann, M-kiann tua hoo lam</i><br>
+<i>(I’d best see through all this false splendor, I'm unafraid of how difficult the road ahead may be, And unafraid of being drenched in the rain)</i><br>
+<i>(虚栄を見抜き 険しい道 大雨を恐れないだけさ)</i><br><br>
+
+<b>心上一字敢 面對我的夢 甘願來作憨人</b><br>
+<i>Sim siong tsit li kam bin-tui gua e bang, Kam guan lai tsue gong lang</i><br>
+<i>(On my heart, there is one word daring, when confronting my dreams, I’m willing to be a fool)</i><br>
+<i>(心には勇敢の文字 夢に向って 不器用でいい)</i><br><br>
+
+<b>我不是頭腦空空 我不是一隻米蟲</b><br>
+<i>Gua m-si thau-nau khang khang, Gua m-si tsit tsiah bi-thang</i><br>
+<i>(It’s not that my head is empty, It’s not that I’m useless)</i><br>
+<i>(僕は頭が空っぽでも 怠け者でもない)</i><br><br>
+
+<b>人啊人 一世人 要安怎歡喜 過春夏秋冬</b><br>
+<i>Lang ah lang tsit si lang, Beh an-tsuann huann-hi kue tshun-ha tshiu-tang</i><br>
+<i>(People, oh! A lifetime is so long, How can we happily pass the years)</i><br>
+<i>(人の一生って どうやって楽しく 春夏秋冬を過ごすかさ)</i><br><br>
+
+<b>我有我的路 有我的夢 夢中的那個世界 甘講伊是一場空</b><br>
+<i>Gua u gua e loo u gua e bang, Bang-tiong e hit e se-kai kam kong i si tsit tiunn khong</i><br>
+<i>(I have my road, I have my dreams, Is it possible the world of my dreams is just an illusion?)</i><br>
+<i>(僕には僕の道が 夢がある 夢の中のあの世界は まさかまぼろし？)</i><br><br>
+
+<b>我走過的路 只有希望 希望你我講過的話 放在心肝內 總有一天</b><br>
+<i>Gua kiann kue e loo tsi-u hi-bang, Hi-bang li gua kong ke e ue pang tsai sim-kuann lai tsong u tsit-kang</i><br>
+<i>(On the road that I’ve traveled, I only have hope, Hope that all we’ve talked about is in our hearts, believing one day it will all come true)</i><br>
+<i>(僕が歩んできた道には 希望だけが 僕が話したことを 心にとめておいて いつの日かきっと)</i><br><br>
+
+<b>我有我的路 有我的夢 夢中的那個世界 甘講伊是一場空</b><br>
+<i>Gua u gua e loo u gua e bang, Bang-tiong e hit e se-kai kam kong i si tsit tiunn khong</i><br>
+<i>(I have my road, I have my dreams, Is it possible the world of my dreams is just an illusion?)</i><br>
+<i>(僕には僕の道が 夢がある 夢の中のあの世界は まさかまぼろし？)</i><br><br>
+
+<b>我走過的路 只有希望 希望你我講過的話 放在心肝內 總有一天</b><br>
+<i>Gua kiann kue e loo tsi-u hi-bang, Hi-bang li gua kong ke e ue pang tsai sim-kuann lai tsong u tsit-kang</i><br>
+<i>(On the road that I’ve traveled, I only have hope, Hope that all we’ve talked about is in our hearts, believing one day it will all come true)</i><br>
+<i>(僕が歩んできた道には 希望だけが 僕が話したことを 心にとめておいて いつの日かきっと)</i><br><br>
+
+<b>我知影總會有一天</b><br>
+<i>Gua tsi ing tsong u tsit-kang</i><br>
+<i>(I know that there will always be a day)</i><br>
+<i>(分かってる いつかその日が来るって)</i><br><br>
+
+<b>啦～啦～啦～啦～</b><br>
+<i>La~La~La~La~</i><br>
+<i>(La~La~La~La~)</i><br>
+<i>(声を聞かせて)</i><br><br>
+
+<b>我有我的路 我有我的夢</b><br>
+<i>Gua u gua e loo, gua u gua e bang</i><br>
+<i>(I have my road, I have my dreams)</i><br>
+<i>(僕には僕の道が 夢がある)</i><br><br>
+
+<b>總會有一天 總會有一天</b><br>
+<i>Tsong u tsit-kang, tsong u tsit-kang</i><br>
+<i>(One day... One day...)</i><br>
+<i>(いつの日かきっと... いつの日かきっと...)</i>
+</blockquote>
 
 </details>
 <br>
