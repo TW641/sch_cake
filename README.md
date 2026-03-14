@@ -16,6 +16,8 @@ As perhaps the final large-scale Padavan port for legacy devices, this project s
 
 * ⚖️ **The Judge, The Hacker & The "Disappointment":** Dave's father, Ron, was a respected municipal judge. Ironically, Ron once wrote that he was his own parents' "only disappointment" because he became a lawyer instead of an engineer. Decades later, Ron found himself equally baffled by his own son. Dave’s nomadic hacker lifestyle confused him. Ron would playfully grumble: *"Why don't you work for IBM? You've been [fixing the internet and giving the technology away for free? Again?](https://blog.cerowrt.org/)"* But Dave wasn't chasing money; he was chasing a dream. Yet, Dave inherited his father's fierce sense of justice and critical thinking—a trait summarized by a tattooed ex-convict who once recognized Dave in a bar and bought him a beer, simply saying of Judge Ron: *"He was fair."*<br>
 
+* 🎨 **The Mother's Gift: Art & Music:** While Dave inherited his critical thinking from his father, his boundless creativity, nomadic spirit, and deep passion for music undoubtedly came from his mother, Beverly. She was an award-winning painter, an avid world traveler, and a generous patron of the arts who even opened her home to visiting symphony musicians. Dave’s identity as a "sci-fi folk musician" carrying his guitar everywhere was a beautiful continuation of her vibrant legacy.<br>
+
 * ⚾ **The Alternate Universe & "Extra Innings":** Dave cherished a vivid childhood memory of driving home with his dad, screaming at the radio during a dramatic 19-inning Phillies baseball game. Years later, Dave discovered that specific game *never actually happened* that way. His beautiful conclusion: *"I can only conclude that it took place in some alternate universe that only he and I shared."* In 2012, as Ron was dying in a hospice, he began feverishly typing blog posts with just two fingers. Dave stepped in as his editor, realizing that for the first time since he was a boy, they were collaborating rather than arguing. *"I didn't realize that he was in a hurry,"* Dave later reflected in a heartbreaking eulogy, mourning the stories his dad left untold. Yet, he was profoundly grateful his father's life went into "extra innings," allowing them to finally understand each other before the end.<br>
 
 * 🌍 **The Nicaragua Origin:** The fight against bufferbloat wasn't born in a corporate lab. It started when Dave was building OpenWrt mesh networks for the *One Laptop per Child (OLPC)* project in Nicaragua. Facing severe latency in those harsh environments, he found his lifelong mission.<br>
@@ -38,8 +40,11 @@ There is a heartbreaking, yet incredibly beautiful timeline to Dave's family. <b
 On June 9, 2012, sitting by his late father Ron's side in his final hours, Dave wrote on his blog:<br>
 > *"Of all these things, the one viewpoint I was sure of, the one thing I believe to be true of an afterlife, such as it is, was this: **That yes, we are all starstuff. And it made me cry to think it through.**"*<br>
 
-In early 2025, his mother Beverly passed away. Less than three months later, on April 1, 2025, Dave's own lifelong game went into its final "extra innings." He passed away at the age of 59, joining his parents. <br>
-*In life, they were Stars illuminating the world; in death, they are Starstuff illuminating the universe.*
+On January 11, 2025, his mother Beverly passed away peacefully at her home, surrounded by loved ones.<br><br>
+Less than three months later, on April 1, 2025, Dave's own lifelong game went into its final "extra innings." He passed away at the age of 59, joining his parents.<br><br>
+
+> `*In life, they were Stars illuminating the world.*`
+> `*In death, they are Starstuff illuminating the universe.*`
 
 #### 🎼 Coda: The Grand Finale (Dave's Guitar & Fool)
 
