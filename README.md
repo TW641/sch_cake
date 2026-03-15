@@ -72,12 +72,9 @@ Less than three months later, on April 1, 2025, Dave's own lifelong game went in
 He passed away at the age of 59, joining his parents.<br>
 *(他在 59 歲時離世，與父母團聚。)*<br><br>
 
-> <code><b><i>In life, they were Stars illuminating the world.</i></b></code>
-> 
-> <code><b><i>（在世時，他們是照亮世界的星星。）</i></b></code>
-> 
-> <code><b><i>In death, they are Starstuff illuminating the universe.</i></b></code>
-> 
+> <code><b><i>In life, they were Stars illuminating the world.</i></b></code><br>
+> <code><b><i>（在世時，他們是照亮世界的星星。）</i></b></code><br><br>
+> <code><b><i>In death, they are Starstuff illuminating the universe.</i></b></code><br>
 > <code><b><i>（逝世後，他們是點亮宇宙的星塵。）</i></b></code>
 
 #### 🎼 Coda: The Grand Finale (Dave's Guitar & Fool)
@@ -90,17 +87,19 @@ Poetically, the legendary Taiwanese rock band Mayday (whose anniversary is March
 On March 29, 2020, Mayday's lead singer Ashin wrote a touching post revealing the profound mystery hidden within the Chinese title **《憨人》 (Fool)**. For engineers and hackers around the world, this is the most beautiful equation of humanity:<br>
 *(2020 年 3 月 29 日，五月天主唱阿信寫下了一篇動人的貼文，揭示了中文曲名**《憨人》 (Fool)** 裡隱藏的深刻奧秘。對全世界的工程師與駭客來說，這是人性中最美的方程式：)*<br>
 
-> 💻 <code><b><i>憨 (Fool) = 敢 (Courage) + 心 (Heart)</i></b></code>
+<br>
+<div align="center">
+  <h3>💻 <code><b><i>憨 (Fool) = 敢 (Courage) + 心 (Heart)</i></b></code></h3>
+</div>
+<br>
 
 Ashin wrote:<br>
 *(阿信寫道：)*
-> *"That year, I suddenly realized that the character for <code><b><i>'Fool' (憨) is made of 'Courage' (敢) placed over a 'Heart' (心).</i></b></code>"*
-> *(「那年，突然發現代表著愚笨的<code><b><i>『憨』字，是『心』上一個『敢』。</i></b></code>」)*
-> 
-> *"Then, inspiration led me to write this song..."*
-> *(「然後靈感帶我寫下了這首歌……」)*
->
-> *"<code><b><i>Let us bring this song to the courageous you, let's meet when the dawn comes (約在曙光來臨之時).</i></b></code>"*
+> *"That year, I suddenly realized that the character for <code><b><i>'Fool' (憨) is made of 'Courage' (敢) placed over a 'Heart' (心).</i></b></code>"*<br>
+> *(「那年，突然發現代表著愚笨的<code><b><i>『憨』字，是『心』上一個『敢』。</i></b></code>」)*<br><br>
+> *"Then, inspiration led me to write this song..."*<br>
+> *(「然後靈感帶我寫下了這首歌……」)*<br><br>
+> *"<code><b><i>Let us bring this song to the courageous you, let's meet when the dawn comes (約在曙光來臨之時).</i></b></code>"*<br>
 > *(「<code><b><i>讓我們為你帶來這首『憨人』，與勇敢的你，約在曙光來臨之時。</i></b></code>」)*
 
 This song is the absolute reflection of Dave's life. He refused the "sky full of gold" to give his algorithms (`FQ-CoDel` & `CAKE`) away for free. To let the global open-source community sing along with Dave's spirit, here are the full lyrics in 4 languages, completely unabridged: Traditional Chinese, Taiwanese Romanization, English, and Official Japanese.<br>
