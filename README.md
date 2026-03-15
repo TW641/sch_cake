@@ -88,9 +88,11 @@ On March 29, 2020, Mayday's lead singer Ashin wrote a touching post revealing th
 *(2020 年 3 月 29 日，五月天主唱阿信寫下了一篇動人的貼文，揭示了中文曲名**《憨人》 (Fool)** 裡隱藏的深刻奧秘。對全世界的工程師與駭客來說，這是人性中最美的方程式：)*<br>
 
 <br>
-<div align="center">
-  <h3>💻 <code><b><i>憨 (Fool) = 敢 (Courage) + 心 (Heart)</i></b></code></h3>
-</div>
+
+<p align="center">
+  <code><b><i>💻 憨 (Fool) = 敢 (Courage) + 心 (Heart)</i></b></code>
+</p>
+
 <br>
 
 Ashin wrote:<br>
