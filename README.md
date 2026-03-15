@@ -248,10 +248,10 @@ If his monumental work has ever improved your network, please honor this brillia
 
 #### 🔗 References & Tributes
 * **Dave's Starstuff Quote (2012):** [Ron's Ravings Blog Comments](https://ronsravings.blogspot.com/2012/06/rip-ron-taht.html?showComment=1339262388498#c3179985587009391271)
-* **Ron at Hope Hospice (2012):** [Ron's Ravings](https://ronsravings.blogspot.com/2012/05/ron-at-hope-hospice.html)
+* **Ron at Hope Hospice (2012):** [Ron's Ravings: Ron at Hope Hospice](https://ronsravings.blogspot.com/2012/05/ron-at-hope-hospice.html)
 * **Extra Innings Eulogy & The Alternate Universe (2012):** [Eulogy - "Extra Innings"](https://ronsravings.blogspot.com/2012/10/memorial-service-eulogy.html)
 * **Ron's Disappointment (2011):** [The republicans admit to being half wrong...](https://ronsravings.blogspot.com/2011/10/normal-0-microsoftinternetexplorer4.html)
-* **Beverly Taht Joins Ron (2025):** [Ron's Ravings](https://ronsravings.blogspot.com/2025/01/beverly-taht-joins-ron.html)
+* **Beverly Taht Joins Ron (2025):** [Ron's Ravings: Beverly Taht Joins Ron](https://ronsravings.blogspot.com/2025/01/beverly-taht-joins-ron.html)
 * **CeroWrt Blog (Fixing the internet for free):** [blog.cerowrt.org](https://blog.cerowrt.org/)
 * **Doc Searls Weblog (2025):** [Remembering Dave Taht (This guitar kills Vogons)](https://doc.searls.com/2025/04/01/remembering-dave-taht/)
 * **"Happy travels, amigo!" (Friend's Farewell):** [Doc Searls Weblog Comments (stu z)](https://doc.searls.com/2025/04/01/remembering-dave-taht/#comment-33744)
