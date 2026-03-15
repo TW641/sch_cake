@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline';">
     
-    <title>{{ site.title }} - TW641 的開源專案 | TW641 開源路由器韌體中心</title>
+    <title>{{ site.title }} - TW641 的開源專案 | TW641 Padavan CAKE 與 Dave Täht 數位典藏博物館</title>
 
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}">
 
@@ -25,12 +25,12 @@
 
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html','' }}">
-    <meta property="og:title" content="{{ site.title }} - TW641 的開源專案 | TW641 開源路由器韌體中心">
+    <meta property="og:title" content="{{ site.title }} - TW641 的開源專案 | TW641 Padavan CAKE 與 Dave Täht 數位典藏博物館">
     <meta property="og:description" content="{{ site.title }} - TW641 的開源專案 | TW641 致力於對抗 Bufferbloat，為 142 款路由器提供 Padavan-CAKE 韌體雲端編譯懶人包，用 CAKE 開源演算法讓你的老設備重獲新生。">
     <meta property="og:image" content="https://tw641.github.io/TW641.png">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ site.title }} - TW641 的開源專案 | TW641 開源路由器韌體中心">
+    <meta name="twitter:title" content="{{ site.title }} - TW641 的開源專案 | TW641 Padavan CAKE 與 Dave Täht 數位典藏博物館">
     <meta name="twitter:description" content="{{ site.title }} - TW641 的開源專案 | TW641 終結延遲！142 款路由器 Padavan-CAKE 韌體中心，讓老設備煥發極致效能。">
     <meta name="twitter:image" content="https://tw641.github.io/TW641.png">
 
@@ -42,8 +42,8 @@
                 "@type": "WebSite",
                 "@id": "{{ site.url }}{{ site.baseurl }}/#website",
                 "url": "{{ site.url }}{{ site.baseurl }}/",
-                "name": "{{ site.title }} - TW641 的開源專案 | Padavan CAKE 開源路由器韌體中心",
-                "description": "{{ site.title }} - TW641 的開源專案，提供 142 款路由器的 Padavan-CAKE 韌體雲端編譯懶人包與 CAKE 演算法移植，致力於對抗 Bufferbloat。",
+                "name": "{{ site.title }} - TW641 的開源專案 | TW641 Padavan CAKE 與 Dave Täht 數位典藏博物館",
+                "description": "{{ site.title }} - TW641 的開源專案，提供 142 款路由器的 Padavan-CAKE 韌體雲端編譯懶人包，用職人精神對抗 Bufferbloat，並作為紀念開源先驅 Dave Täht 的數位典藏博物館。",
                 "author": {
                     "@type": "Person",
                     "name": "TW641",
@@ -74,13 +74,42 @@
                         "https://github.com/TW641"
                     ]
                 }
+            },
+            {
+                "@type": "Museum",
+                "@id": "https://tw641.github.io/#museum",
+                "name": "Dave Täht Digital Memorial Museum",
+                "description": "A digital exhibition and library dedicated to the legacy of Dave Täht, open-source pioneer and creator of CAKE/FQ-CoDel algorithms.",
+                "url": "https://tw641.github.io/",
+                "sameAs": [
+                    "https://github.com/TW641"
+                ],
+                "isAccessibleForFree": true,
+                "publicAccess": true
+            },
+            {
+                "@type": "ExhibitionEvent",
+                "name": "The Lore of an Internet Hero: Dave Täht",
+                "description": "線上數位展覽，展示網路延遲對抗先驅 Dave Täht 的傳奇生平、程式碼貢獻與音樂遺產 (OpenWrt 25.12 Dave's Guitar)。",
+                "startDate": "2025-04-01",
+                "location": {
+                    "@type": "VirtualLocation",
+                    "url": "https://tw641.github.io/",
+                    "sameAs": [
+                        "https://github.com/TW641"
+                    ]
+                },
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "TWD"
+                }
             }
         ]
     }
     </script>
 
     <style>
-        /* === 完全保留原始 CSS === */
         :root { --bg-color: #f6f8fa; --text-color: #24292f; --text-muted: #57606a; --card-bg: #ffffff; --link-color: #0550ae; --border-color: #d0d7de; --btn-bg: #2da44e; --btn-hover: #2c974b; --btn-text: #ffffff; --tag-bg: #eaf5ff; --tag-text: #0550ae; --table-header: #f3f6f9; --highlight-bg: #fff8c5; }
         [data-theme="dark"] { --bg-color: #0d1117; --text-color: #c9d1d9; --text-muted: #8b949e; --card-bg: #161b22; --link-color: #79c0ff; --border-color: #30363d; --btn-bg: #238636; --btn-hover: #2ea043; --btn-text: #ffffff; --tag-bg: #1f2428; --tag-text: #79c0ff; --table-header: #21262d; --highlight-bg: #3a2e05; }
         @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg-color: #0d1117; --text-color: #c9d1d9; --text-muted: #8b949e; --card-bg: #161b22; --link-color: #79c0ff; --border-color: #30363d; --btn-bg: #238636; --btn-hover: #2ea043; --btn-text: #ffffff; --tag-bg: #1f2428; --tag-text: #79c0ff; --table-header: #21262d; --highlight-bg: #3a2e05; } }
@@ -125,13 +154,9 @@
         .footer { text-align: center; margin-top: 60px; font-size: 0.9em; color: var(--text-muted); }
         .quote-box { background-color: var(--bg-color); padding: 15px; border-left: 4px solid var(--link-color); border-radius: 4px; margin-top: 15px; font-size: 0.95em; color: var(--text-color); }
         .highlight-box { background-color: var(--highlight-bg); border: 1px solid #d4a72c; padding: 15px; border-radius: 8px; margin-top: 20px; }
-        @media (max-width: 600px) { .header-section h1 { font-size: 1.6em; } .header-section p { font-size: 1em; } }
-
-        /* === 無損追加：Markdown 原生防破版 CSS + 錨點樣式 === */
+        @media (max-width: 600px) { .header-section h1 { font-size: 1.6em; } .header-section p { font-size: 1em; } .markdown-body { padding: 20px; } }
         .markdown-body { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 30px; margin-bottom: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; }
         .markdown-body:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
-        @media (max-width: 600px) { .markdown-body { padding: 20px; } }
-        
         .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 { border-bottom: 1px solid var(--border-color); padding-bottom: 8px; margin-top: 24px; margin-bottom: 16px; position: relative; display: flex; align-items: center; }
         .markdown-body blockquote { border-left: 4px solid var(--link-color); padding: 15px; color: var(--text-color); margin: 0 0 16px 0; background-color: var(--bg-color); border-radius: 4px; font-size: 0.95em; }
         .markdown-body hr { height: 1px; padding: 0; margin: 24px 0; background-color: var(--border-color); border: 0; }
@@ -139,14 +164,12 @@
         .markdown-body pre { background-color: var(--table-header); padding: 16px; overflow: auto; border-radius: 8px; border: 1px solid var(--border-color); }
         .markdown-body pre code { background-color: transparent; padding: 0; font-size: 100%; border: none; color: var(--text-color); }
         .markdown-body img { max-width: 100%; box-sizing: content-box; background-color: var(--card-bg); border-radius: 8px; }
-
         .markdown-body table { border-spacing: 0; border-collapse: collapse; display: block; width: max-content; max-width: 100%; overflow: auto; margin-top: 0; margin-bottom: 16px; font-size: 0.9em; }
         .markdown-body table th, .markdown-body table td { padding: 8px 10px; border: 1px solid var(--border-color); }
         .markdown-body table tr { background-color: var(--card-bg); border-top: 1px solid var(--border-color); }
         .markdown-body table tr:nth-child(2n) { background-color: rgba(0,0,0,0.02); }
         [data-theme="dark"] .markdown-body table tr:nth-child(2n) { background-color: rgba(255,255,255,0.02); }
         .markdown-body table th { font-weight: bold; background-color: rgba(0,0,0,0.03); text-align: left; }
-
         .heading-with-anchor { position: relative; }
         .heading-with-anchor .anchor { float: left; padding-right: 4px; margin-left: -20px; line-height: 1; visibility: hidden; text-decoration: none; outline: none; }
         .heading-with-anchor:hover .anchor, .heading-with-anchor .anchor:focus { visibility: visible; }
@@ -209,7 +232,6 @@
             }
         });
 
-        // 懸浮錨點
         document.addEventListener("DOMContentLoaded", function() {
             document.querySelectorAll('.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6').forEach(function(heading) {
                 if (heading.id) {
