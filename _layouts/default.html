@@ -113,6 +113,7 @@
         :root { --bg-color: #f6f8fa; --text-color: #24292f; --text-muted: #57606a; --card-bg: #ffffff; --link-color: #0550ae; --border-color: #d0d7de; --btn-bg: #2da44e; --btn-hover: #2c974b; --btn-text: #ffffff; --tag-bg: #eaf5ff; --tag-text: #0550ae; --table-header: #f3f6f9; --highlight-bg: #fff8c5; }
         [data-theme="dark"] { --bg-color: #0d1117; --text-color: #c9d1d9; --text-muted: #8b949e; --card-bg: #161b22; --link-color: #79c0ff; --border-color: #30363d; --btn-bg: #238636; --btn-hover: #2ea043; --btn-text: #ffffff; --tag-bg: #1f2428; --tag-text: #79c0ff; --table-header: #21262d; --highlight-bg: #3a2e05; }
         @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg-color: #0d1117; --text-color: #c9d1d9; --text-muted: #8b949e; --card-bg: #161b22; --link-color: #79c0ff; --border-color: #30363d; --btn-bg: #238636; --btn-hover: #2ea043; --btn-text: #ffffff; --tag-bg: #1f2428; --tag-text: #79c0ff; --table-header: #21262d; --highlight-bg: #3a2e05; } }
+        
         .theme-toggle-btn { position: fixed; bottom: 30px; right: 30px; background-color: var(--card-bg); color: var(--text-color); border: 1px solid var(--border-color); border-radius: 50%; width: 50px; height: 50px; font-size: 1.5em; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease, background-color 0.3s ease; z-index: 9999; display: flex; align-items: center; justify-content: center; }
         .theme-toggle-btn:hover { transform: scale(1.1); }
         body { background-color: var(--bg-color); color: var(--text-color); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 850px; margin: 0 auto; padding: 50px 20px; transition: background-color 0.3s ease, color 0.3s ease; }
@@ -174,6 +175,9 @@
         .heading-with-anchor .anchor { float: left; padding-right: 4px; margin-left: -20px; line-height: 1; visibility: hidden; text-decoration: none; outline: none; }
         .heading-with-anchor:hover .anchor, .heading-with-anchor .anchor:focus { visibility: visible; }
         .anchor svg { fill: var(--link-color); vertical-align: middle; visibility: visible; }
+        
+        .glow-text { color: var(--link-color); font-weight: bold; text-shadow: 0 0 8px rgba(5, 80, 174, 0.4); transition: text-shadow 0.3s ease, color 0.3s ease; }
+        [data-theme="dark"] .glow-text { color: #79c0ff; text-shadow: 0 0 10px rgba(121, 192, 255, 0.6); }
     </style>
 </head>
 <body>
@@ -197,6 +201,14 @@
     </main>
 
     <footer class="footer">
+        <div class="memorial-section" style="margin-bottom: 20px; font-size: 0.95em; color: var(--text-color);">
+            <p style="margin: 5px 0;">
+                ⭐ <span class="glow-text">Dave Täht</span> passed away on <span class="glow-text">2025.04.01</span>. <span class="glow-text">Today</span> is <span id="current-date" class="glow-text"></span>.
+            </p>
+            <p style="margin: 5px 0;">
+                🌠 Illuminating the open-source universe for <strong id="total-days" class="glow-text" style="font-size: 1.1em;"></strong> days <span style="color: var(--text-muted);">(<span id="ymd-breakdown"></span>)</span>.
+            </p>
+        </div>
         <p>© <span id="year"></span> TW641. Built with passion for a Bufferbloat-free world.</p>
     </footer>
 
@@ -206,6 +218,42 @@
 
     <script>
         document.getElementById("year").textContent=new Date().getFullYear();
+        
+        const startDate=new Date('2025-04-01T00:00:00');
+        const now=new Date();
+        const currentYear=now.getFullYear();
+        const currentMonth=String(now.getMonth()+1).padStart(2,'0');
+        const currentDay=String(now.getDate()).padStart(2,'0');
+        
+        document.getElementById("current-date").textContent=`${currentYear}.${currentMonth}.${currentDay}`;
+        
+        const diffTime=now-startDate;
+        const totalDays=Math.floor(diffTime/(1000*60*60*24));
+        
+        if(totalDays>=0){
+            document.getElementById("total-days").textContent=totalDays;
+            let years=currentYear-startDate.getFullYear();
+            let months=now.getMonth()-startDate.getMonth();
+            let days=now.getDate()-startDate.getDate();
+            if(days<0){
+                months--;
+                const prevMonth=new Date(now.getFullYear(),now.getMonth(),0);
+                days+=prevMonth.getDate();
+            }
+            if(months<0){
+                years--;
+                months+=12;
+            }
+            let breakdownStr='';
+            if(years>0) breakdownStr+=`<span class="glow-text">${years} 年 (Y)</span> `;
+            if(months>0||years>0) breakdownStr+=`<span class="glow-text">${months} 個月 (M)</span> `;
+            breakdownStr+=`<span class="glow-text">${days} 天 (D)</span>`;
+            document.getElementById("ymd-breakdown").innerHTML=breakdownStr;
+        }else{
+            document.getElementById("total-days").textContent="0";
+            document.getElementById("ymd-breakdown").innerHTML="<span class='glow-text'>0 天 (D)</span>";
+        }
+
         const themeToggleBtn=document.getElementById('theme-toggle');
         const rootElement=document.documentElement;
         const currentTheme=localStorage.getItem('theme');
