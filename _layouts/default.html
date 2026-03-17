@@ -110,22 +110,157 @@
     </script>
 
     <style>
-        :root { --bg-color: #f6f8fa; --text-color: #24292f; --text-muted: #57606a; --card-bg: #ffffff; --link-color: #0550ae; --border-color: #d0d7de; --btn-bg: #2da44e; --btn-hover: #2c974b; --btn-text: #ffffff; --tag-bg: #eaf5ff; --tag-text: #0550ae; --table-header: #f3f6f9; --highlight-bg: #fff8c5; }
-        [data-theme="dark"] { --bg-color: #0d1117; --text-color: #c9d1d9; --text-muted: #8b949e; --card-bg: #161b22; --link-color: #79c0ff; --border-color: #30363d; --btn-bg: #238636; --btn-hover: #2ea043; --btn-text: #ffffff; --tag-bg: #1f2428; --tag-text: #79c0ff; --table-header: #21262d; --highlight-bg: #3a2e05; }
-        @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg-color: #0d1117; --text-color: #c9d1d9; --text-muted: #8b949e; --card-bg: #161b22; --link-color: #79c0ff; --border-color: #30363d; --btn-bg: #238636; --btn-hover: #2ea043; --btn-text: #ffffff; --tag-bg: #1f2428; --tag-text: #79c0ff; --table-header: #21262d; --highlight-bg: #3a2e05; } }
-        
+        /*
+         * 🌠 Hidden Easter Egg / In memory of Dave Täht 🌠
+         * Digital Curator, Archivist & Sculptor > TW641
+         * Code name > Tribute Time Machine
+         *
+         * [ Easter Egg I : The Flow of Nebula and Time ]
+         * > The Nebula and Time Flow in this Time Machine act as
+         * a space-time accelerator pointing to     : 2025.04.01
+         * - Hidden Y-axis Coordinate                 : 20% (20)
+         * - Hover Active Flow Rate                   : 2.5s (25)
+         * - Base Nebula Flow Rate                    : 4.1s (04.01)
+         *
+         * [ Easter Egg II : Atmospheric Refraction & Digital Breath Rate ]
+         * > The Atmospheric Refraction & Digital Breath Rate
+         * embed hidden coordinates that represent  : 2025.04.01
+         * - Hidden Y-axis Coordinate                 : 20% (20)
+         * - Atmospheric Refraction                   : 25% (25)
+         * (Halo blur radius expands exactly by 20% at the 25% timeline)
+         * - Base Twinkle (Breath) Rate               : 4.0s (04)
+         * > Standard 4-second human breath cycle.
+         * - Hover Active Twinkle Rate                : 1.0s (01)
+         * > The 1Hz twinkle is Dave Täht saying hello to you!
+         *
+         * [ Easter Egg III : The Curator's Signature (TW641) ]
+         * The elements serendipitously echo the developer's code: TW641
+         * - [ TW ] : The origin of the curator (Taiwan).
+         * - [ 6 ]  : The 6 selected tracks in the Soundtrack of the Stars.
+         * - [ 4 ]  : The 4th month (April).
+         * - [ 1 ]  : The 1st day.
+         * > April 1st is April Fool's Day, and also the day Dave Täht passed away.
+         * > It perfectly echoes Mayday's (五月天) song "Fool" (憨人) —
+         * > Honoring and Commemorating Dave's selfless legacy and noble life mission.
+         *
+         * ---------------------------------------------------------
+         *
+         * [ Museum Visual Design Elements ]
+         *
+         * > The Nebula (Space-time continuum edge)
+         * - Color Nebula 1  : #5374fa (Deep continuum edge)
+         * - Color Nebula 2  : #fd9179 (Hovering warm starlight)
+         * - Color Nebula 3  : #ff6969 (High-energy core)
+         *
+         * > The Stargazer and The Star
+         * - Color Dave Täht : #58a6ff (The brightest star in the dark mode)
+         * - Color You       : #0550ae (Every stargazer in the light mode)
+         *
+         * > Daylight Mode (Stellar Expanse & Sunlight)
+         * - BG Stellar      : #f6f8fa (The vast stellar expanse in daylight)
+         * - BG Sunlight     : #fffdf5 (Card background in daylight)
+         *
+         * > Night Sky Mode (Universe & Night Sky)
+         * - BG Universe     : #05050a (Deep space background in night sky)
+         * - BG Night Sky    : #0d1218 (Card background in night sky)
+         *
+         * ---------------------------------------------------------
+         *
+         * [ The Soundtrack of the Stars (Mayday Playlist) ]
+         *
+         * - When you ask me what song tells the story of Dave Täht's 
+         * selfless contribution:
+         * Listen to "Fool" (憨人) - The 10,000-people chorus Live Version.
+         * > https://youtu.be/olGod8i1j1o
+         *
+         * - When you ask me how to power up this Tribute Time Machine:
+         * Listen to "Time Machine" (時光機)
+         * > https://youtu.be/hKPtVlSW2qA
+         *
+         * - When you ask me about the chance encounter with Dave's 
+         * code and legacy:
+         * Listen to "What If We Had Never Met" (如果我們不曾相遇)
+         * > https://youtu.be/eZMH6Mo0f9A
+         *
+         * - When you look up at the night sky mode and feel lonely:
+         * Listen to "Starry Sky" (星空).
+         * (A free online concert during the COVID-19 pandemic. 
+         * To avoid gatherings, the empty stadium was filled only 
+         * with glowing light sticks on every seat, just like the 
+         * silent but glowing stars in our digital universe!)
+         * > https://youtu.be/n5Uow4k1ATg
+         *
+         * - When you want to see a meteor shower in this digital universe:
+         * Listen to "Meteor Rain" (流星雨) F4 x MAYDAY 5525 Live Version.
+         * > https://youtu.be/T--M_M2NvhM
+         *
+         * - When you ask me what song represents our wish for everyone 
+         * to be safe and well during the pandemic:
+         * Listen to "Because of You" (因為你 所以我).
+         * "只因 世界 再大 不過 你和我 / 用最小回憶 堆成宇宙"
+         * > https://youtu.be/_s8Iot-uo7s
+         *
+         * ---------------------------------------------------------
+         *
+         * [ Interactive Guide ]
+         *
+         * - When you look up at the night sky, you will see the main 
+         * visual design of the night sky mode.
+         *
+         * - When you are looking for Dave Täht, please look at the 
+         * brightest star!
+         *
+         * - When you ask me why Dave Täht is so dazzling, I will answer you:
+         * "The darker the night, the brighter the Täht."
+         *
+         * - When you ask me what to do when I miss Dave Täht, I will answer you:
+         * "When you miss Dave, modprobe sch_cake!"
+         *
+         * - When you ask me how to know the little-known stories about Dave Täht:
+         * Scroll down to the "⭐ Light up the Täht: A Final Tribute" section.
+         *
+         * ---------------------------------------------------------
+         *
+         * "One thing our advisory panel unanimously advised was that, 
+         * in order to survive indefinitely through uncertain futures, 
+         * these archives would need to be appreciated and valued 
+         * as objects in and of themselves. 
+         *
+         * 'If you don’t make it beautiful it’s for sure doomed,' 
+         * as Alexander Rose, executive director of the Long Now Foundation, put it."
+         *
+         * — Source: GitHub Archive Program. 
+         * (Visual design of this Tribute Time Machine is deeply inspired 
+         * by Alex Maki-Jokela's GitHub Open Source Archive Box).
+         *
+         * This digital museum is our beautiful object.
+         *
+         * Built to survive.
+         *
+         * Built to remember.
+         *
+         * ---------------------------------------------------------
+         *
+         * 回憶，之所以美麗
+         * 正因，他別具意義
+         */
+        :root { --color-nebula-1: #5374fa; --color-nebula-2: #fd9179; --color-nebula-3: #ff6969; --color-dave-taht: #58a6ff; --color-you: #0550ae; --bg-stellar: #f6f8fa; --bg-sunlight: #fffdf5; --bg-color: var(--bg-stellar); --card-bg: var(--bg-sunlight); --text-color: #24292f; --text-muted: #57606a; --link-color: var(--color-you); --border-color: #d0d7de; --btn-bg: #2da44e; --btn-hover: #2c974b; --btn-text: #ffffff; --tag-bg: #eaf5ff; --tag-text: var(--color-you); --table-header: #f3f6f9; --highlight-bg: #fff8c5; }
+        [data-theme="dark"] { --bg-universe: #05050a; --bg-night-sky: #0d1218; --bg-color: var(--bg-universe); --card-bg: var(--bg-night-sky); --text-color: #c9d1d9; --text-muted: #8b949e; --link-color: #79c0ff; --border-color: #30363d; --btn-bg: #238636; --btn-hover: #2ea043; --btn-text: #ffffff; --tag-bg: #1f2428; --tag-text: #79c0ff; --table-header: #161b22; --highlight-bg: #3a2e05; }
+        @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg-color: #05050a; --card-bg: #0d1218; --text-color: #c9d1d9; --text-muted: #8b949e; --link-color: #79c0ff; --border-color: #30363d; --btn-bg: #238636; --btn-hover: #2ea043; --btn-text: #ffffff; --tag-bg: #1f2428; --tag-text: #79c0ff; --table-header: #161b22; --highlight-bg: #3a2e05; } }
         .theme-toggle-btn { position: fixed; bottom: 30px; right: 30px; background-color: var(--card-bg); color: var(--text-color); border: 1px solid var(--border-color); border-radius: 50%; width: 50px; height: 50px; font-size: 1.5em; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.2s ease, background-color 0.3s ease; z-index: 9999; display: flex; align-items: center; justify-content: center; }
         .theme-toggle-btn:hover { transform: scale(1.1); }
         body { background-color: var(--bg-color); color: var(--text-color); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 850px; margin: 0 auto; padding: 50px 20px; transition: background-color 0.3s ease, color 0.3s ease; }
         h1, h2, h3 { color: var(--text-color); margin-top: 0; }
-        a { color: var(--link-color); text-decoration: none; font-weight: 600; transition: color 0.2s; }
-        a:hover { text-decoration: underline; }
+        a { color: var(--link-color); text-decoration: none; font-weight: 600; transition: all 0.3s ease; }
+        a:not(.btn):hover { background-image: linear-gradient(94.23deg, #5374fa 0%, #5374fa 12.41%, #fd9179 52.55%, #ff6969 89.95%, #5374fa 100%); background-size: 200% auto; -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; text-decoration: underline; text-decoration-color: #fd9179; animation: flowGradient 2.5s linear infinite; transition: filter 1s cubic-bezier(.16,1,.3,1), text-decoration-color 1s cubic-bezier(.16,1,.3,1); }
+        .gradient-text { background-image: linear-gradient(94.23deg, #5374fa 0%, #5374fa 12.41%, #fd9179 52.55%, #ff6969 89.95%, #5374fa 100%) !important; background-size: 200% auto !important; -webkit-background-clip: text !important; background-clip: text !important; -webkit-text-fill-color: transparent !important; font-weight: bold; animation: flowGradient 4.1s linear infinite !important; transition: filter 1s cubic-bezier(.16,1,.3,1) !important; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+        [data-theme="dark"] .gradient-text { background-image: linear-gradient(94.23deg, #5374fa 0%, #5374fa 12.41%, #fd9179 52.55%, #ff6969 89.95%, #5374fa 100%) !important; background-size: 200% auto !important; -webkit-background-clip: text !important; background-clip: text !important; -webkit-text-fill-color: transparent !important; animation: flowGradient 4.1s linear infinite !important; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
         .header-section { text-align: center; margin-bottom: 50px; }
-        .header-section h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .header-section h1 { font-size: 2.5em; margin-bottom: 15px; line-height: 1.3; text-align: center; }
         .header-section p { font-size: 1.2em; color: var(--text-muted); }
         .card { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 30px; margin-bottom: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s; }
         .card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
-        .card h2 { display: flex; align-items: center; font-size: 1.5em; border-bottom: 1px solid var(--border-color); padding-bottom: 10px; margin-bottom: 20px; }
+        .card h2 { font-size: 1.5em; border-bottom: 1px solid var(--border-color); padding-bottom: 10px; margin-bottom: 20px; line-height: 1.4; }
         .card-list { list-style: none; padding: 0; margin: 0; }
         .card-list > li { margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px dashed var(--border-color); }
         .card-list > li:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
@@ -154,8 +289,13 @@
         .device-table tr:hover td { background-color: rgba(0,0,0,0.02); }
         .footer { text-align: center; margin-top: 60px; font-size: 0.9em; color: var(--text-muted); }
         .quote-box { background-color: var(--bg-color); padding: 15px; border-left: 4px solid var(--link-color); border-radius: 4px; margin-top: 15px; font-size: 0.95em; color: var(--text-color); }
-        .highlight-box { background-color: var(--highlight-bg); border: 1px solid #d4a72c; padding: 15px; border-radius: 8px; margin-top: 20px; }
-        @media (max-width: 600px) { .header-section h1 { font-size: 1.6em; } .header-section p { font-size: 1em; } .markdown-body { padding: 20px; } }
+        .highlight-box { background-color: var(--highlight-bg); border: 1px solid var(--color-nebula-2); padding: 15px; border-radius: 8px; margin-top: 20px; }
+        .subtitle-wrapper { display: flex; justify-content: center; }
+        .poetic-subtitle { font-size: 1.2em; color: var(--text-muted); line-height: 1.8; margin-bottom: 20px; text-align: center; }
+        .poetic-line { display: block; margin-bottom: 5px; }
+        .poetic-part { display: inline-block; }
+        .hero-title-3 { display: flex; justify-content: center; margin-top: 8px; flex-wrap: nowrap; }
+        .desktop-inline { display: inline; }
         .markdown-body { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 30px; margin-bottom: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; }
         .markdown-body:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
         .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 { border-bottom: 1px solid var(--border-color); padding-bottom: 8px; margin-top: 24px; margin-bottom: 16px; position: relative; display: flex; align-items: center; }
@@ -175,16 +315,22 @@
         .heading-with-anchor .anchor { float: left; padding-right: 4px; margin-left: -20px; line-height: 1; visibility: hidden; text-decoration: none; outline: none; }
         .heading-with-anchor:hover .anchor, .heading-with-anchor .anchor:focus { visibility: visible; }
         .anchor svg { fill: var(--link-color); vertical-align: middle; visibility: visible; }
-        
-        .glow-text { color: var(--link-color); font-weight: bold; text-shadow: 0 0 8px rgba(5, 80, 174, 0.4); transition: text-shadow 0.3s ease, color 0.3s ease; }
-        [data-theme="dark"] .glow-text { color: #79c0ff; text-shadow: 0 0 10px rgba(121, 192, 255, 0.6); }
+        @media (max-width: 600px) { .header-section h1 { font-size: 1.5em; } .header-section p { font-size: 1em; } .poetic-subtitle { font-size: 1.05em; text-align: center; } .poetic-line .code-block { white-space: normal !important; max-width: 100%; box-sizing: border-box; line-height: 1.5; padding: 6px 10px !important; display: inline-block; } .poetic-part { display: inline-block; } .hero-title-3 { flex-wrap: wrap; } .desktop-inline { display: block; margin-top: 5px; } .markdown-body { padding: 20px; } }
+        .glow-text { -webkit-text-fill-color: currentColor !important; color: var(--color-you); font-weight: bold; text-shadow: 0 0 2px rgba(5, 80, 174, 0.2); transition: text-shadow 0.3s ease, color 0.3s ease; animation: starTwinkleLight 4s linear infinite; }
+        [data-theme="dark"] .glow-text { -webkit-text-fill-color: currentColor !important; color: var(--color-dave-taht); text-shadow: 0 0 6px rgba(88, 166, 255, 0.6), 0 0 15px rgba(88, 166, 255, 0.2); transition: text-shadow 0.3s ease, color 0.3s ease; animation: starTwinkleDark 4s linear infinite; }
+        a.glow-text:hover, .glow-text:hover { animation-duration: 1s !important; }
+        @keyframes starTwinkleLight { 0%, 100% { opacity: 1; text-shadow: 0 0 5px rgba(5, 80, 174, 0.2); } 25% { opacity: 0.8; text-shadow: 0 0 6px rgba(5, 80, 174, 0.5); } }
+        @keyframes starTwinkleDark { 0%, 100% { opacity: 1; text-shadow: 0 0 10px rgba(88, 166, 255, 0.6), 0 0 20px rgba(88, 166, 255, 0.2); } 25% { opacity: 0.8; text-shadow: 0 0 12px rgba(88, 166, 255, 0.8), 0 0 24px rgba(88, 166, 255, 0.4); } }
+        a.gradient-text:hover, .gradient-text:hover { animation: flowGradient 2.5s linear infinite !important; filter: brightness(1.15) drop-shadow(0 0 6px rgba(253, 145, 121, 0.4)); }
+        @keyframes flowGradient { 0% { background-position: 0% 20%; } 100% { background-position: 200% 20%; } }
+        .emoji { -webkit-text-fill-color: currentColor !important; background: none !important; color: currentColor !important; }
     </style>
 </head>
 <body>
 
     <header class="header-section">
         <h1>
-            <a href="./" style="color: inherit; text-decoration: none; font-size: inherit; font-weight: inherit;">🇹🇼 {{ site.title }}</a>
+            <a href="./" style="color: inherit; text-decoration: none; font-size: inherit; font-weight: inherit;">🇹🇼 <span class="gradient-text">{{ site.title }}</span></a>
         </h1>
         <p>{{ site.description }}</p>
         <div style="margin-top: 20px; display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
@@ -203,10 +349,16 @@
     <footer class="footer">
         <div class="memorial-section" style="margin-bottom: 20px; font-size: 0.95em; color: var(--text-color);">
             <p style="margin: 5px 0;">
-                ⭐ <span class="glow-text">Dave Täht</span> passed away on <span class="glow-text">2025.04.01</span>. <span class="glow-text">Today</span> is <span id="current-date" class="glow-text"></span>.
+                ⭐ <span class="glow-text">Dave Täht</span> passed away on <span class="glow-text">2025.04.01</span>. 
+                <span style="display: inline-block;">
+                    <span class="glow-text">Today</span> is <span id="current-date" class="glow-text"></span>.
+                </span>
             </p>
             <p style="margin: 5px 0;">
-                🌠 Illuminating the open-source universe for <strong id="total-days" class="glow-text" style="font-size: 1.1em;"></strong> days <span style="color: var(--text-muted);">(<span id="ymd-breakdown"></span>)</span>.
+                🌠 Illuminating the open-source universe for <strong id="total-days" class="glow-text" style="font-size: 1.1em;"></strong> days 
+                <span style="display: inline-block; white-space: nowrap; color: var(--text-muted);">
+                (<span id="ymd-breakdown"></span>)
+                </span>.
             </p>
         </div>
         <p>© <span id="year"></span> TW641. Built with passion for a Bufferbloat-free world.</p>
@@ -217,70 +369,69 @@
     </button>
 
     <script>
-        document.getElementById("year").textContent=new Date().getFullYear();
-        
-        const startDate=new Date('2025-04-01T00:00:00');
-        const now=new Date();
-        const currentYear=now.getFullYear();
-        const currentMonth=String(now.getMonth()+1).padStart(2,'0');
-        const currentDay=String(now.getDate()).padStart(2,'0');
-        
-        document.getElementById("current-date").textContent=`${currentYear}.${currentMonth}.${currentDay}`;
-        
-        const diffTime=now-startDate;
-        const totalDays=Math.floor(diffTime/(1000*60*60*24));
-        
-        if(totalDays>=0){
-            document.getElementById("total-days").textContent=totalDays;
-            let years=currentYear-startDate.getFullYear();
-            let months=now.getMonth()-startDate.getMonth();
-            let days=now.getDate()-startDate.getDate();
-            if(days<0){
-                months--;
-                const prevMonth=new Date(now.getFullYear(),now.getMonth(),0);
-                days+=prevMonth.getDate();
-            }
-            if(months<0){
-                years--;
-                months+=12;
-            }
-            let breakdownStr='';
-            if(years>0) breakdownStr+=`<span class="glow-text">${years} 年 (Y)</span> `;
-            if(months>0||years>0) breakdownStr+=`<span class="glow-text">${months} 個月 (M)</span> `;
-            breakdownStr+=`<span class="glow-text">${days} 天 (D)</span>`;
-            document.getElementById("ymd-breakdown").innerHTML=breakdownStr;
-        }else{
-            document.getElementById("total-days").textContent="0";
-            document.getElementById("ymd-breakdown").innerHTML="<span class='glow-text'>0 天 (D)</span>";
+        const rootElement = document.documentElement;
+        const themeToggleBtn = document.getElementById('theme-toggle');
+        const currentTheme = localStorage.getItem('theme');
+        const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+        if(currentTheme === 'dark') {
+            rootElement.setAttribute('data-theme', 'dark');
+            themeToggleBtn.textContent = '☀️';
+        } else if(currentTheme === 'light') {
+            rootElement.setAttribute('data-theme', 'light');
+            themeToggleBtn.textContent = '🌙';
+        } else {
+            themeToggleBtn.textContent = prefersDarkScheme.matches ? '☀️' : '🌙';
         }
-
-        const themeToggleBtn=document.getElementById('theme-toggle');
-        const rootElement=document.documentElement;
-        const currentTheme=localStorage.getItem('theme');
-        const prefersDarkScheme=window.matchMedia('(prefers-color-scheme: dark)');
-        if(currentTheme==='dark'){
-            rootElement.setAttribute('data-theme','dark');
-            themeToggleBtn.textContent='☀️';
-        }else if(currentTheme==='light'){
-            rootElement.setAttribute('data-theme','light');
-            themeToggleBtn.textContent='🌙';
-        }else{
-            themeToggleBtn.textContent=prefersDarkScheme.matches?'☀️':'🌙';
-        }
-        themeToggleBtn.addEventListener('click',()=>{
-            let isDark=rootElement.getAttribute('data-theme')==='dark'||(!rootElement.hasAttribute('data-theme')&&prefersDarkScheme.matches);
-            if(isDark){
-                rootElement.setAttribute('data-theme','light');
-                localStorage.setItem('theme','light');
-                themeToggleBtn.textContent='🌙';
-            }else{
-                rootElement.setAttribute('data-theme','dark');
-                localStorage.setItem('theme','dark');
-                themeToggleBtn.textContent='☀️';
+        themeToggleBtn.addEventListener('click', () => {
+            let isDark = rootElement.getAttribute('data-theme') === 'dark' || (!rootElement.hasAttribute('data-theme') && prefersDarkScheme.matches);
+            if(isDark) {
+                rootElement.setAttribute('data-theme', 'light');
+                localStorage.setItem('theme', 'light');
+                themeToggleBtn.textContent = '🌙';
+            } else {
+                rootElement.setAttribute('data-theme', 'dark');
+                localStorage.setItem('theme', 'dark');
+                themeToggleBtn.textContent = '☀️';
             }
         });
 
+        const now = new Date();
+        const currentYear = now.getFullYear();
+        const currentMonth = String(now.getMonth() + 1).padStart(2, '0');
+        const currentDay = String(now.getDate()).padStart(2, '0');
+        const startDate = new Date('2025-04-01T00:00:00');
+        const diffTime = now - startDate;
+        const totalDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+        document.getElementById("year").textContent = currentYear;
+        document.getElementById("current-date").textContent = `${currentYear}.${currentMonth}.${currentDay}`;
+        if(totalDays >= 0) {
+            document.getElementById("total-days").textContent = totalDays;
+            let years = currentYear - startDate.getFullYear();
+            let months = now.getMonth() - startDate.getMonth();
+            let days = now.getDate() - startDate.getDate();
+            if(days < 0) {
+                months--;
+                const prevMonth = new Date(now.getFullYear(), now.getMonth(), 0);
+                days += prevMonth.getDate();
+            }
+            if(months < 0) {
+                years--;
+                months += 12;
+            }
+            let breakdownStr = '';
+            if(years > 0) breakdownStr += `<span class="glow-text">${years} 年 (Y)</span> `;
+            if(months > 0 || years > 0) breakdownStr += `<span class="glow-text">${months} 個月 (M)</span> `;
+            breakdownStr += `<span class="glow-text">${days} 天 (D)</span>`;
+            document.getElementById("ymd-breakdown").innerHTML = breakdownStr;
+        } else {
+            document.getElementById("total-days").textContent = "0";
+            document.getElementById("ymd-breakdown").innerHTML = "<span class='glow-text'>0 天 (D)</span>";
+        }
+
         document.addEventListener("DOMContentLoaded", function() {
+            document.querySelectorAll('.markdown-body h1, .markdown-body h2, .markdown-body h3').forEach(function(heading) {
+                heading.classList.add('gradient-text');
+            });
             document.querySelectorAll('.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6').forEach(function(heading) {
                 if (heading.id) {
                     heading.classList.add('heading-with-anchor');
@@ -291,6 +442,39 @@
                     anchor.innerHTML = '<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.829 2.829l-2.5 2.5a2 2 0 01-2.829 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.829l2.5-2.5a2 2 0 012.829 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.829 0z"></path></svg>';
                     heading.prepend(anchor);
                 }
+            });
+            const keywords = ["Dave Täht", "Täht", "Dave", "Michael", "dtaht", "@mtaht", "Dave’s Guitar", "星塵", "星星", "星辰", "Starstuff", "Star"];
+            const escapedKw = keywords.map(k => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).sort((a, b) => b.length - a.length);
+            const searchRegex = new RegExp("(" + escapedKw.join("|") + ")", "gi");
+            const testRegex = new RegExp("(" + escapedKw.join("|") + ")", "i");
+            const matchRegex = new RegExp("^(" + escapedKw.join("|") + ")$", "i");
+            const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, {
+                acceptNode: function(node) {
+                    if (node.parentNode.classList && node.parentNode.classList.contains('glow-text')) return NodeFilter.FILTER_REJECT;
+                    if (['SCRIPT', 'STYLE', 'TITLE', 'NOSCRIPT'].includes(node.parentNode.nodeName)) return NodeFilter.FILTER_REJECT;
+                    if (testRegex.test(node.nodeValue)) return NodeFilter.FILTER_ACCEPT;
+                    return NodeFilter.FILTER_SKIP;
+                }
+            });
+            const nodesToReplace = [];
+            let currentNode;
+            while (currentNode = walker.nextNode()) {
+                nodesToReplace.push(currentNode);
+            }
+            nodesToReplace.forEach(node => {
+                const fragment = document.createDocumentFragment();
+                const parts = node.nodeValue.split(searchRegex);
+                parts.forEach(part => {
+                    if (matchRegex.test(part)) {
+                        const span = document.createElement('span');
+                        span.className = 'glow-text';
+                        span.textContent = part;
+                        fragment.appendChild(span);
+                    } else if (part) {
+                        fragment.appendChild(document.createTextNode(part));
+                    }
+                });
+                node.parentNode.replaceChild(fragment, node);
             });
         });
     </script>
