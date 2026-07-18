@@ -1,4 +1,4 @@
-# [sch_cake - The "Dave Täht Tribute" Fork](https://github.com/TW641/sch_cake)
+# [TW641 sch_cake - Common Applications Kept Enhanced (CAKE) scheduler - TW641’s CAKE Port for Padavan ng firmware with Linux kernel 3.4.113 / 4.4.198 while maintaining HWNAT and SFE acceleration - Padavan (TW641’s CAKE Port) (142 legacy MediaTek/Ralink models) - The "Dave Täht Tribute" Fork](https://github.com/TW641/sch_cake)
 
 > **"When you miss Dave, modprobe sch_cake!"**
 > — *A tribute to the soul of bufferbloat mitigation.*
