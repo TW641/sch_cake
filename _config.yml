@@ -1,5 +1,5 @@
 # 專案基礎設定 (各專案請自行修改此處)
-title: "sch_cake (The Dave Täht Tribute Fork)"
+title: "TW641 sch_cake - Common Applications Kept Enhanced (CAKE) scheduler - TW641’s CAKE Port for Padavan ng firmware with Linux kernel 3.4.113 / 4.4.198 while maintaining HWNAT and SFE acceleration - Padavan (TW641’s CAKE Port) (142 legacy MediaTek/Ralink models) - TW641 sch_cake (The Dave Täht Tribute Fork)"
 description: "A tribute to the soul of bufferbloat mitigation."
 url: "https://tw641.github.io"
 baseurl: "/sch_cake"
